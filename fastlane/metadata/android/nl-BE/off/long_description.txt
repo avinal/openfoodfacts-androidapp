@@ -1,11 +1,11 @@
-Open Food Facts is een open database van voedingsproducten met ingrediënten, allergenen, voedingsinformatie en alle informatie die we kunnen vinden op de etiketten van de producten.
+Scan barcodes van diervoedingsproducten om gegevens te krijgen over ingrediënten, additieven en voedingswaarden.
 
 ▶ Zoek en vergelijk meer dan 800.000 producten
 
-De app maakt het mogelijk om de 800.000 producten (inclusief 175.000 uit de VS) in de gratis en open database Open Food Facts te bekijken, en om foto's en gegevens toe te voegen voor nieuwe producten.
+De app maakt het mogelijk om meer dan 600 huisdiervoedingsproducten in de gratis en open database Open Pet Food Facts te bekijken, en om foto's en gegevens toe te voegen voor nieuwe producten.
 
 
-Om het vrijwillige Open Food Facts project te ontdekken, bezoek https://world.openfoodfacts.org
+Om het Open Pet Food Facts project te ontdekken, bezoek https://world.openpetfoodfacts.org
 
 ▶ Kies de producten die goed voor je zijn
 - Nutri-Score, van "A" tot "E", voor de voedingskwaliteit
@@ -20,17 +20,17 @@ Om het vrijwillige Open Food Facts project te ontdekken, bezoek https://world.op
 - Om een Carbon Impact weer te geven, moet een product een volledige ingrediëntenlijst hebben met het percentage vlees of vis en een portiegrootte
 
 
-▶ Draag bij aan de inzichtelijkheid van de voedselketen
-- Open Products Facts is een productendatabase die door iedereen is gemaakt, voor iedereen.
-- Je kunt het gebruiken om betere keuzes te maken, en omdat het open data is, kan iedereen het voor elk doel hergebruiken.
-- Open Products Facts is een non-profit-project ontwikkeld door duizenden vrijwilligers wereldwijd. We hebben veel spannende projecten waar je op veel verschillende manieren aan kunt bijdragen.
-- Je kunt vandaag beginnen met een bijdrage te leveren door je eerste product toe te voegen.
+*** Draag bij aan producttransparantie ***
+- Open Pet Food Facts is een database met huisdiervoedingsproducten gemaakt door iedereen, voor iedereen.
+- Je kunt de database gebruiken om betere keuzes voor huisdiervoeding te maken, en omdat het open data is, kan iedereen het voor elk doel hergebruiken.
+- Open Pet Food Facts is een non-profit-project ontwikkeld door duizenden vrijwilligers wereldwijd. We hebben veel spannende projecten waar je op veel verschillende manieren aan kunt bijdragen.
+- Je kunt vandaag beginnen met een bijdrage te leveren door een product uit de voorraad van je huisdier toe te voegen.
 
 Maak lijsten
 Maak lijsten Maak boodschappenlijstjes, houd bij wat je hebt gegeten en deel je lijsten eenvoudig en exporteer ze.
 
-▶ Ken de feiten
-Open Beauty Facts helpt je om de kleine lettertjes op etiketten te begrijpen. Je zal ook kunnen vinden (volgens de aanwijzingen op de producten):
+*** Ken de feiten ***
+Open Products Facts helpt je om de kleine lettertjes op etiketten te begrijpen. Je zal ook kunnen vinden (volgens de aanwijzingen op de producten):
 - de koolstofvoetafdruk (CO2-emissies) en verpakking (evenals recyclinginstructies),
 - Nutri-Score (voedingswaarde), voedingsstoffen, vetgehalte, verzadigde vetzuren, koolhydraten, suikers, vezels, eiwitten en zout,
 - merken, allergenen, labels (biologisch, veganistisch...)
@@ -51,14 +51,14 @@ Scan met de snelheid van het licht (zelfs als u in een vliegtuig, onderzeeër of
 
 - De hele planeet, in je zak!
 - Je kan nieuwe producten toevoegen, zelfs als je even geen internetverbinding hebt.
-- De app laadt alleen de strikt noodzakelijke gegevens om het batterijverbruik te verkleinen.
+- De app laadt alleen de strikt noodzakelijke gegevens om het batterijverbruik te verkleinen
 
-*** Jouw dierenvoeding, jouw gegevens ***
+*** Jouw producten, jouw gegevens ***
 - Je persoonlijke gegevens zijn van jou en worden nooit online verzonden
 - Je kunt de app anoniem gebruiken
 - Je kunt jouw scangeschiedenis exporteren
 
-Stel allergeenwaarschuwingen in
+▶ Draag bij aan de inzichtelijkheid van de voedselketen
 - Voor een melk, gluten, eieren, sojabonen, noten, vis, selderij, mosterd, zwaveldioxide en sulfieten, pinda's, sesamzaad, schaaldieren, weekdieren of lupine-allergie
 - Open Miniature Food Facts - De grootste open database van miniatuurvoedingsmiddelen
 - Wees voorzichtig: de gegevens kunnen niet 100% accuraat zijn en de detectie is wellicht niet 100% accuraat. Dus controleer altijd zelf de verpakking.
@@ -67,10 +67,10 @@ Stel allergeenwaarschuwingen in
 ▶ Zeg hallo en/of word lid!
 
 
-Open Products Facts is ook beschikbaar op internet op https://world.openproductsfacts.org
+Open Beauty Facts is ook beschikbaar op internet op https://world.openbeautyfacts.org
 
 
 Vragen, feedback: contact@openfoodfacts.org
 
 
-Voor levensmiddelen kan je Open Food Facts installeren, voor cosmetica Open Beauty Facts en voor alle andere producten Open Products Facts.
+Opmerking: Open Beauty Facts wordt momenteel gebouwd, de site en de applicatie zijn gebaseerd op Open Food Facts en er zullen wijzigingen worden aangebracht om rekening te houden met de specifieke kenmerken van cosmetica.

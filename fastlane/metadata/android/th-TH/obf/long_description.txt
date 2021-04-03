@@ -2,7 +2,7 @@
 
 - Open Beauty Facts is a cosmetic products database made by everyone, for everyone.
 - You can use it to make better cosmetic choices, and as it is open data, anyone can re-use it for any purpose.
-- Open Beauty Facts is a non-profit project developed by thousands of volunteers from around the world. เรามีโครงการที่น่าตื่นเต้นมากมายที่คุณสามารถมีส่วนร่วมได้หลายวิธี 
+- Open Beauty Facts is a non-profit project developed by thousands of volunteers from around the world. - Open Food Facts เป็นโครงการที่ไม่หวังผลกำไรที่พัฒนาโดยอาสาสมัครหลายพันคนจากทั่วโลก เรามีโครงการที่น่าตื่นเต้นมากมายที่คุณสามารถมีส่วนร่วมได้หลายวิธี เรามีโครงการที่น่าตื่นเต้นมากมายที่คุณสามารถมีส่วนร่วมได้หลายวิธี 
 - You can start contributing today by adding a product from your cosmetic cupboard. 
 
 *** รับข้อมูล ***
@@ -15,7 +15,7 @@
 
 *** Works well in any condition ***
 - You can add new products, even if you don't have an Internet connection right now.
-- The app loads only the strict necessary to reduce data and battery consumption
+- The app loads only the strict necessary to reduce data and battery consumption.
 - You don't need a camera to look up a product. You can also type the barcode if you lack a camera or have an issue with it.
 
 *** Your cosmetics, your data ***

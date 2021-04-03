@@ -1,13 +1,13 @@
-Open Food Facts é uma base de dados de produtos alimentares com ingredientes, alergénios, tabela nutricional e todos os pedacinhos de informação que se encontram nos rótulos dos produtos.
+Digitalize produtos alimentares para animais para obter dados sobre ingredientes, aditivos e informação nutricional.
 
 ▶ Encontre e compare mais de 800.000 produtos
 
-A aplicação permite visualizar os 800.000 produtos (incluindo 175.000 nos EUA) já contidos no banco de dados aberto e gratuito dos Open Food Facts e de adicionar fotos e dados de produtos novos.
+A aplicação permite visualizar os mais de 600 produtos alimentares para animais já contidos na base de dados aberta e gratuita Open Pet Food Facts e também para adicionar fotos e dados de produtos em falta.
 
 
-Para descobrir o projeto Open Food Facts realizado por voluntários, visite https://world-pt.openfoodfacts.org
+Para descobrir o projeto Open Pet Food Facts, visite https://world-pt.openpetfoodfacts.org
 
-▶ Escolha os produtos que são bons para você
+▶ Escolha os produtos que são bons para si
 - A classificação Nutri-Score, de "A" a "E" >> Qualidade nutricional
 - O grupo NOVA, de "1" a "4" >> Encontre o alimento ultraprocessado
 - Você pode facilmente comparar quantos produtos quiser, lado a lado simplesmente digitalizando-os. 
@@ -20,17 +20,17 @@ Para descobrir o projeto Open Food Facts realizado por voluntários, visite http
 - Para exibir um Impacto de Carbono, um produto deve ter uma lista completa de ingredientes com % de carne ou peixe e uma quantidade
 
 
-***Contribua para a Transparência Alimentar***
-- Open Food Facts é um banco de dados de produtos alimentícios feito por todos, para todos.
-- Pode usá-lo para fazer melhores escolhas alimentares, e como são dados abertos, qualquer um pode reutilizá-lo para qualquer finalidade.
-- Open Product Facts é um projeto não lucrativo desenvolvido por milhares de voluntários em todo o mundo. Temos muitos projetos interessantes para os quais você pode contribuir de diversas maneiras.
-- Pode começar a contribuir hoje ao adicionar um produto do seu frigorífico.
+***Contribuir para a transparência dos alimentos para animais ***
+- Open Product Facts é um projeto não lucrativo desenvolvido por milhares de voluntários em todo o mundo.
+- Pode usá-lo para fazer melhores escolhas alimentares para animais e como são dados abertos, qualquer um pode reutilizá-lo para qualquer finalidade.
+- Open Pet Food Facts é um projeto sem fins lucrativos desenvolvido por milhares de voluntários em todo o mundo. Temos muitos projetos interessantes para os quais você pode contribuir de diversas maneiras.
+- Pode começar a contribuir hoje, adicionando um produto do seu armário de alimentos para animais.
 
 ▶ Obtenha os Factos
 Crie listas de compras, controle o que você comeu e compartilhe facilmente e exporte suas listas.
 
 *** Conheça os fatos ***
-- Open Food Facts ajuda-o a entender as letras miúdas dos rótulos dos produtos. Poderá encontrar também (de acordo com as indicações presentes nos produtos):
+- Open Beauty Facts ajuda a entender as letras miúdas dos rótulos dos produtos. Poderá encontrar também (de acordo com as indicações presentes nos produtos):
 - pegada de carbono (emissões de CO2) e embalagem (assim como instruções de reciclagem),
 - Nutriscore (escore nutricional), nutrientes, teor de gordura / gordura, ácidos graxos saturados, carboidratos, açúcares, fibras, proteínas e sal e sódio.
 - marcas, alérgenos, rótulos (orgânicos, veganos...)
@@ -43,7 +43,7 @@ Crie listas de compras, controle o que você comeu e compartilhe facilmente e ex
 - O Nutri-Score foi criado pela equipe francesa independente liderada pelo professor Hercberg.
 - Os grupos NOVA em processamento de alimentos foram projetados pela equipe internacional do professor Monteiro.
 - Você pode obter uma síntese dos níveis de exposição da EFSA em aditivos alimentares.
-- A comunidade Open Food Facts está colaborando com equipes de pesquisa em todo o planeta para melhorar a pesquisa nutricional que beneficia a todos.
+- Open Food Facts é um banco de dados de produtos alimentícios feito por todos, para todos.
 
 
 ▶ Off-line Scan: digitalizar em qualquer condição! (brevemente)
@@ -51,9 +51,9 @@ Digitalize à velocidade da luz (mesmo se você estiver num avião, submarino ou
 
 - O planeta inteiro, no seu bolso!
 - Poderá adicionar novos produtos, mesmo sem ligação à Internet no momento.
-- O aplicativo carrega apenas o estrito necessário para reduzir o consumo de dados e bateria.
+- A aplicação carrega apenas o rigor necessário para reduzir o consumo de dados e bateria
 
-*** Os seus produtos, os seus dados ***
+*** Sua comida para animais, seus dados ***
 - os seus dados são seus e nunca são enviados on-line
 - Pode usar o aplicativo anonimamente
 - Pode exportar seu histórico de digitalizações
@@ -73,4 +73,4 @@ O Open Beauty Facts também está disponível na web em https://pt.openbeautyfac
 Perguntas, feedback: contact@openfoodfacts.org
 
 
-Para comida humana, você pode instalar o Open Food Facts, para animais de estimação, o Open Pet Food Facts, e para todos os outros produtos, o Open Products Facts.
+Ontem de manhã, a equipa do Open Food Facts acordou para uma revelação impressionante. Colecionar alimentos, cosméticos e alimentos para animais de estimação no mundo era tão fora de moda.

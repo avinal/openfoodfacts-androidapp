@@ -118,7 +118,7 @@
         <item>Acide de Mead (20:3 n-9)</item>
         <item>Acide mélissique (30:0)</item>
         <item>Molybdène</item>
-        <item>Graisses mono-insaturées</item>
+        <item>Monounsaturated fat</item>
         <item>Acide montanique (28:0)</item>
         <item>Acide myristique (14:0)</item>
         <item>Acide nervonique (24:1 n-9)</item>
@@ -132,7 +132,7 @@
         <item>pH</item>
         <item>Phosphore</item>
         <item>Glycol (Polyols)</item>
-        <item>Graisses poly-insaturées</item>
+        <item>Polyunsaturated fat</item>
         <item>Potassium</item>
         <item>Sélénium</item>
         <item>Protéines sériques</item>
@@ -155,7 +155,6 @@
         <item>Vitamine K</item>
         <item>Zinc</item>
     </string-array>
-    <!-- Text units -->
     <!-- Content Description -->
     <string name="search_button">Rechercher</string>
     <string name="alert_dialog_warning_title">Avertissement</string>
@@ -322,8 +321,8 @@
     <string name="for_100g">Pour 100 g</string>
     <string name="for_100ml">Pour 100 ml</string>
     <string name="serving">Par portion</string>
-    <string name="nutrition_monounsaturatedFat">Graisses mono-insaturées</string>
-    <string name="nutrition_polyunsaturatedFat">Graisses poly-insaturées</string>
+    <string name="nutrition_monounsaturatedFat">Monounsaturated fat</string>
+    <string name="nutrition_polyunsaturatedFat">Polyunsaturated fat</string>
     <string name="nutrition_omega3">Oméga-3</string>
     <string name="nutrition_omega6">Oméga-6</string>
     <string name="nutrition_omega9">Oméga-9</string>
@@ -408,7 +407,7 @@
     <string name="device_offline_dialog_message">Une connexion réseau est nécessaire pour cela, souhaitez-vous changer cela dans les paramètres?</string>
     <string name="device_offline_dialog_negative">Ignorer</string>
     <string name="device_offline_dialog_positive">Paramètres</string>
-    <string name="scan_first_product">Scannez votre premier produit</string>
+    <string name="scan_first_product">Scan your first product</string>
     <string name="device_on_mobile_data_warning_title">Information</string>
     <string name="device_on_mobile_data_warning_message">Le téléchargement via données mobiles est désactivé, veuillez vous connecter au WiFi ou changer cela dans les préférences</string>
     <string name="device_on_mobile_data_warning_positive">Préférences</string>
@@ -661,7 +660,7 @@
     <!-- Used for additive exposure evaluation table -->
     <string name="extract_ingredients_prompt">Extraire les ingrédients</string>
     <string name="extract_recycling_prompt">Extraire les instructions de recyclage</string>
-    <string name="add_nutrient_prompt_text">Ajouter les informations nutritionnelles pour calculer le Nutri-Score</string>
+    <string name="add_nutrient_prompt_text">Add nutrition facts to compute the Nutri-Score</string>
     <string name="add_category_prompt_text">Ajoutez une catégorie pour aider à compléter le produit</string>
     <string name="add_nutrient_category_prompt_text">Ajoutez une catégorie et des informations nutritionnelles pour aider à compléter le produit</string>
     <string name="couldnot_compute_ecoscore_prompt_text">Nous n\'avons pas pu calculer l\'Eco-Score de ce produit. Il se peut que la catégorie ne soit pas assez spécifique ou que nous n\'ayons pas les données nécessaires pour cette catégorie. Si vous pensez qu\'il s\'agit d\'une erreur, vous pouvez nous envoyer un courriel en cliquant ci-dessous.</string>
@@ -700,7 +699,7 @@
     <string name="empty"></string>
     <string name="add_product">Ajouter des produits</string>
     <string name="add_another_product">Ajouter un autre produit</string>
-    <string name="add_nutrition_facts_for_nutriscore">Ajouter les informations nutritionnelles pour calculer le Nutri-Score</string>
+    <string name="add_nutrition_facts_for_nutriscore">Add nutrition facts to compute the Nutri-Score</string>
     <string name="product_summary_action_compare_button_label">Comparer</string>
     <string name="product_summary_action_add_to_list_button_label">Ajouter à une liste</string>
     <string name="product_summary_action_edit_button_label">Modifier</string>

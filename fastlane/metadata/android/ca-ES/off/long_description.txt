@@ -1,11 +1,11 @@
-Escanegeu productes alimentaris o el seu codi de barres per conèixer els seus ingredients, additius i dades nutricionals.
+Scan pet food products or their barcode to obtain data on ingredients, additives and nutrition facts.
 
 ▶ Find & Compare more than 800.000 products
 
-The app allows to view the 800.000 products (including 175.000 in the US) already contained in the free and open database Open Food Facts, and also to add pictures and data for new products.
+The app allows to view the over 600 pet food products already contained in the free and open database Open Pet Food Facts, and also to add pictures and data for missing products.
 
 
-To discover the volunteer-run Open Food Facts project, visit https://world.openfoodfacts.org
+To discover the Open Pet Food Facts project, please visit https://world.openpetfoodfacts.org
 
 ▶ Choose the products that are good for you
 - The Nutri-Score grade, from "A" to "E" >> Nutritional quality
@@ -20,20 +20,20 @@ To discover the volunteer-run Open Food Facts project, visit https://world.openf
 - To display a Carbon Impact, a product must have a complete ingredient list with % of meat or fish and a quantity
 
 
-▶ Contribute to Food Transparency
-- Open Food Facts és una base de dades de productes alimentaris creada per tothom, per a tothom.
-- Podeu utilitzar-la per a millorar la vostra selecció alimentària i, com que les dades són obertes, qualsevol persona pot tornar-la a utilitzar per a qualsevol propòsit.
-- Open Food Facts és un projecte sense ànim de lucre, desenvolupat per milers de persones voluntàries de tot el món. Tenim molts projectes interessants en els que hi podeu contribuir de moltes maneres diferents.
-- You can start contributing today by adding a product from your fridge.
+*** Contribute to Product Transparency ***
+- Open Products Facts is a products database made by everyone, for everyone.
+- You can use it to make better choices, and as it is open data, anyone can re-use it for any purpose.
+- Open Products Facts is a non-profit project developed by thousands of volunteers from around the world. Tenim molts projectes interessants en els que hi podeu contribuir de moltes maneres diferents.
+- You can start contributing today by adding your first product.
 
 ▶ Create lists
 Create shopping lists, track what you've eaten and easily share and export your lists.
 
-▶ Get the Facts
-- Open Food Facts us ajuda a entendre la lletra petita que hi ha en les etiquetes dels productes. You will be able to find:
+*** Get the Facts ***
+- Open Products Facts helps you to make sense of the fine print on products labels. You will also be able to find (according to the indications present on the products):
 - l'empremta de carboni (emissions de CO2) i envasos (així com les instruccions per al reciclatge),
 - Nutriscore (la puntuació nutricional), nutrients, greixos / contingut en greixos, àcids grassos saturats, carbohidrats, sucres, fibra, proteïnes, sal i sodi.
-- marques, al·lergògens, etiquetes (bio, sense gluten, vegana, vegetariana, halal, kosher ...), informació de traçabilitat (codis d'embalatge, orígens dels ingredients)
+- brands, allergens, labels (organic, vegan...)
 - En vins i cerveses, hi podreu trobar el contingut en alcohol.
 
 
@@ -51,26 +51,26 @@ Scan at the speed of light (even if you’re on a plane, submarine or supermarke
 
 - The whole planet, in your pocket !
 - Podeu afegir nous productes, fins i tot si ara mateix no teniu una connexió a Internet.
-- The app loads only the strict necessary to reduce data and battery consumption.
+- The app loads only the strict necessary to reduce data and battery consumption
 
-▶ Your food, your data
-- Les vostres dades són vostres i mai no s'envien a Internet
+*** Your products, your data ***
+- Your personal data is yours, and is never sent online
 - Podeu utilitzar l'aplicació de forma anònima
 - Podeu exportar el vostre historial d'escaneig
 
 ▶ Set up allergen alerts on products
 - Milk, Gluten, Eggs, Soybeans, Nuts, Fish, Celery, Mustard, Sulphur dioxide and sulphites, Peanuts, Sesame seeds, Crustaceans, Molluscs or Lupin allergy ?
-- Speed up your shopping by doing an initial screening of your food with Open Food Facts.
+- Open Miniature Food Facts - The largest open database of miniature food products
 - Be careful that the information may not be 100% accurate, and detection may not be 100% accurate. So always double check by yourself, with the packaging.
 
 
 ▶ Say hello and/or join us!
 
 
-Open Food Facts també està disponible a internet, a l'adreça https://es-ca.openfoodfacts.org
+Open Products Facts is also available on the web at https://world.openproductsfacts.org
 
 
 Preguntes, comentaris : contact@openfoodfacts.org
 
 
-Per a cosmètics, podeu instal·lar Open Beauty Facts, per al menjar per a animals domèstics, Open Pet Food Facts i per a tots els altres productes, Open Products Facts.
+For food, you can install Open Food Facts, for cosmetics, Open Beauty Facts, and for pet food, Open Pet Food Facts.

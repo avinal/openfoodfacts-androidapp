@@ -35,7 +35,7 @@ Ainesosat
 
 Tehokas
 
-Ravintotiedot
+Ravintosisältö
 
 =====================
 V3-kuvakaappaukset

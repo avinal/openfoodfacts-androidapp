@@ -113,7 +113,7 @@
         <item>매드산 (20:3 n-9)</item>
         <item>멜리스산 (30:0)</item>
         <item>몰리브데넘</item>
-        <item>모노 불포화 지방</item>
+        <item>Monounsaturated fat</item>
         <item>몬탄산 (28:0)</item>
         <item>미리스트산 (14:0)</item>
         <item>네르본산 (24:1 n-9)</item>
@@ -127,7 +127,7 @@
         <item>pH</item>
         <item>인</item>
         <item>당 알코올 (폴리올스)</item>
-        <item>폴리 불포화 지방</item>
+        <item>Polyunsaturated fat</item>
         <item>칼륨</item>
         <item>셀레늄</item>
         <item>혈청단백질</item>
@@ -150,7 +150,6 @@
         <item>비타민 K</item>
         <item>아연</item>
     </string-array>
-    <!-- Text units -->
     <!-- Content Description -->
     <string name="search_button">수색</string>
     <string name="alert_dialog_warning_title">경고</string>
@@ -317,8 +316,8 @@
     <string name="for_100g">100 g</string>
     <string name="for_100ml">100 ml</string>
     <string name="serving">인분</string>
-    <string name="nutrition_monounsaturatedFat">모노 불포화 지방</string>
-    <string name="nutrition_polyunsaturatedFat">폴리 불포화 지방</string>
+    <string name="nutrition_monounsaturatedFat">Monounsaturated fat</string>
+    <string name="nutrition_polyunsaturatedFat">Polyunsaturated fat</string>
     <string name="nutrition_omega3">오메가 3</string>
     <string name="nutrition_omega6">오메가 6</string>
     <string name="nutrition_omega9">오메가 9</string>
@@ -659,7 +658,7 @@
     <!-- Used for additive exposure evaluation table -->
     <string name="extract_ingredients_prompt">성분 추출</string>
     <string name="extract_recycling_prompt">Extract recycling instructions</string>
-    <string name="add_nutrient_prompt_text">영양 수준을 계산하기 위해 영양 사실을 추가</string>
+    <string name="add_nutrient_prompt_text">Add nutrition facts to compute the Nutri-Score</string>
     <string name="add_category_prompt_text">아직 완성되지 않은 제품의 카테고리 추가하기</string>
     <string name="add_nutrient_category_prompt_text">아직 완성되지 않은 제품의 영양 정보와 카테고리를 추가하기</string>
     <string name="couldnot_compute_ecoscore_prompt_text">We could not compute an Eco-Score for this product. It might be that the category is not specific enough or that we don\'t have supporting data for this category. If you believe this is an error, you can mail us by clicking below.</string>
@@ -698,7 +697,7 @@
     <string name="empty"></string>
     <string name="add_product">제품 추가</string>
     <string name="add_another_product">다른 제품 추가</string>
-    <string name="add_nutrition_facts_for_nutriscore">영양 수준을 계산하기 위해 영양 사실을 추가</string>
+    <string name="add_nutrition_facts_for_nutriscore">Add nutrition facts to compute the Nutri-Score</string>
     <string name="product_summary_action_compare_button_label">비교하기</string>
     <string name="product_summary_action_add_to_list_button_label">목록에 추가</string>
     <string name="product_summary_action_edit_button_label">수정</string>

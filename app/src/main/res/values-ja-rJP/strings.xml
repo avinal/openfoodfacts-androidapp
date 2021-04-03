@@ -113,7 +113,7 @@
         <item>ミード酸 (20:3 n-9)</item>
         <item>メリシン酸 (30:0)</item>
         <item>モリブデン</item>
-        <item>一価不飽和脂肪</item>
+        <item>Monounsaturated fat</item>
         <item>モンタン酸 (28:0)</item>
         <item>ミリスチン酸 (14:0)</item>
         <item>ネルボン酸 (24:1 n-9)</item>
@@ -127,7 +127,7 @@
         <item>pH</item>
         <item>リン</item>
         <item>糖アルコール (ポリオール)</item>
-        <item>多価不飽和脂肪</item>
+        <item>Polyunsaturated fat</item>
         <item>カリウム</item>
         <item>セレン</item>
         <item>血清タンパク質</item>
@@ -150,7 +150,6 @@
         <item>ビタミン K</item>
         <item>亜鉛</item>
     </string-array>
-    <!-- Text units -->
     <!-- Content Description -->
     <string name="search_button">検索</string>
     <string name="alert_dialog_warning_title">警告</string>
@@ -317,8 +316,8 @@
     <string name="for_100g">100 g 当たり</string>
     <string name="for_100ml">100 ml 当たり</string>
     <string name="serving">一食当たり</string>
-    <string name="nutrition_monounsaturatedFat">一価不飽和脂肪</string>
-    <string name="nutrition_polyunsaturatedFat">多価不飽和脂肪</string>
+    <string name="nutrition_monounsaturatedFat">Monounsaturated fat</string>
+    <string name="nutrition_polyunsaturatedFat">Polyunsaturated fat</string>
     <string name="nutrition_omega3">オメガ 3</string>
     <string name="nutrition_omega6">オメガ 6</string>
     <string name="nutrition_omega9">オメガ 9</string>
@@ -403,7 +402,7 @@
     <string name="device_offline_dialog_message">これを行うにはネットワーク接続が必要です。設定でこれを変更しますか?</string>
     <string name="device_offline_dialog_negative">消去</string>
     <string name="device_offline_dialog_positive">設定</string>
-    <string name="scan_first_product">最初の製品をスキャンします</string>
+    <string name="scan_first_product">Scan your first product</string>
     <string name="device_on_mobile_data_warning_title">情報</string>
     <string name="device_on_mobile_data_warning_message">You have disabled upload on mobile data , please connect to WiFi or change this in preferences</string>
     <string name="device_on_mobile_data_warning_positive">プリファレンス</string>
@@ -659,9 +658,9 @@
     <!-- Used for additive exposure evaluation table -->
     <string name="extract_ingredients_prompt">原材料を抽出</string>
     <string name="extract_recycling_prompt">Extract recycling instructions</string>
-    <string name="add_nutrient_prompt_text">Add nutrition facts to compute nutrient levels</string>
+    <string name="add_nutrient_prompt_text">Add nutrition facts to compute the Nutri-Score</string>
     <string name="add_category_prompt_text">Add a category to help complete the product</string>
-    <string name="add_nutrient_category_prompt_text">Add a category and nutrition facts to help complete the product</string>
+    <string name="add_nutrient_category_prompt_text">Add nutrition facts and a category to compute the Nutri-Score</string>
     <string name="couldnot_compute_ecoscore_prompt_text">We could not compute an Eco-Score for this product. It might be that the category is not specific enough or that we don\'t have supporting data for this category. If you believe this is an error, you can mail us by clicking below.</string>
     <string name="add_labels_origins_prompt_text">The Eco-Score takes into account environmental labels and origins of the ingredients. Please take them into photo or edit the product so that they can be taken into account</string>
     <string name="add_labels_prompt_text">The Eco-Score takes into account environmental labels. Please take them into photo or edit the product so that they can be taken into account</string>

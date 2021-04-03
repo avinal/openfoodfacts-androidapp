@@ -5,7 +5,7 @@ https://play.google.com/store/apps/details?id=org.openfoodfacts.scanner&hl=de
 V2 Bildschirmfotos
 ════════════════
 
-Produkte erfassen
+Produkte scannen
 
 Nährwertangaben
 
@@ -31,11 +31,11 @@ Wikipedia für Tiernahrung
 
 Wikipedia für Produkte
 
-Inhaltsstoffe
+Zutaten
 
 Leistungsfähig
 
-Nahrungsqualität
+Nährwertangaben
 
 ════════════════
 V3 Bildschirmfotos

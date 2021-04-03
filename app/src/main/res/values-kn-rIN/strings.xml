@@ -118,7 +118,7 @@
         <item>ಮೀಡ್ ಆಸಿಡ್ (20: 3 ಎನ್ -9)</item>
         <item>ಮೆಲಿಸಿಕ್ ಆಮ್ಲ (30: 0)</item>
         <item>ಮಾಲಿಬ್ಡಿನಮ್</item>
-        <item>ಏಕಕಾಲೀನ ಕೊಬ್ಬು</item>
+        <item>Monounsaturated fat</item>
         <item>ಮಾಂಟನಿಕ್ ಆಸಿಡ್ (28: 0)</item>
         <item>ಮೈರಿಸ್ಟಿಕ್ ಆಮ್ಲ (14: 0)</item>
         <item>ನರ್ವೋನಿಕ್ ಆಮ್ಲ (24: 1 n-9)</item>
@@ -132,7 +132,7 @@
         <item>pH</item>
         <item>ರಂಜಕ</item>
         <item>ಸಕ್ಕರೆ ಮದ್ಯಸಾರಗಳು (ಪಾಲಿಯೋಲ್ಸ್)</item>
-        <item>ಪಾಲಿಅನ್ಸುಟರೇಟೆಡ್ ಕೊಬ್ಬು</item>
+        <item>Polyunsaturated fat</item>
         <item>ಪೊಟ್ಯಾಸಿಯಮ್</item>
         <item>ಸೆಲೆನಿಯಮ್</item>
         <item>ರಕ್ತಸಾರ ಪ್ರೋಟೀನ್ಗಳು</item>
@@ -155,7 +155,6 @@
         <item>ಜೀವಸತ್ವ ಕೆ</item>
         <item>ಝಿಂಕ್</item>
     </string-array>
-    <!-- Text units -->
     <!-- Content Description -->
     <string name="search_button">ಹುಡುಕಿ</string>
     <string name="alert_dialog_warning_title">ಎಚ್ಚರಿಕೆ</string>
@@ -322,8 +321,8 @@
     <string name="for_100g">100 ಗ್ರಾಂ</string>
     <string name="for_100ml">For 100 ml</string>
     <string name="serving">ಪ್ರತಿ ಸೇವೆಗೆ</string>
-    <string name="nutrition_monounsaturatedFat">ಏಕಕಾಲೀನ ಕೊಬ್ಬು</string>
-    <string name="nutrition_polyunsaturatedFat">ಪಾಲಿಅನ್ಸುಟರೇಟೆಡ್ ಕೊಬ್ಬು</string>
+    <string name="nutrition_monounsaturatedFat">Monounsaturated fat</string>
+    <string name="nutrition_polyunsaturatedFat">Polyunsaturated fat</string>
     <string name="nutrition_omega3">ಒಮೇಗಾ 3</string>
     <string name="nutrition_omega6">ಒಮೇಗಾ 6</string>
     <string name="nutrition_omega9">ಒಮೇಗಾ 9</string>
@@ -408,7 +407,7 @@
     <string name="device_offline_dialog_message">ಇದನ್ನು ಮಾಡಲು ನೆಟ್ವರ್ಕ್ ಸಂಪರ್ಕವನ್ನು ಅಗತ್ಯವಿದೆ, ನೀವು ಇದನ್ನು ಸೆಟ್ಟಿಂಗ್ಗಳಲ್ಲಿ ಬದಲಾಯಿಸಲು ಬಯಸುತ್ತೀರಾ?</string>
     <string name="device_offline_dialog_negative">ವಜಾಮಾಡು</string>
     <string name="device_offline_dialog_positive">ಸೆಟ್ಟಿಂಗ್</string>
-    <string name="scan_first_product">ಮೊದಲ ಉತ್ಪನ್ನವನ್ನು ಸ್ಕ್ಯಾನ್ ಮಾಡಿ</string>
+    <string name="scan_first_product">Scan your first product</string>
     <string name="device_on_mobile_data_warning_title">ಮಾಹಿತಿ</string>
     <string name="device_on_mobile_data_warning_message">You have disabled upload on mobile data , please connect to WiFi or change this in preferences</string>
     <string name="device_on_mobile_data_warning_positive">ಆದ್ಯತೆಗಳು</string>
@@ -665,7 +664,7 @@
     <!-- Used for additive exposure evaluation table -->
     <string name="extract_ingredients_prompt">ಪದಾರ್ಥಗಳನ್ನು ಹೊರತೆಗೆಯಿರಿ</string>
     <string name="extract_recycling_prompt">Extract recycling instructions</string>
-    <string name="add_nutrient_prompt_text">Add nutrition facts to compute nutrient levels</string>
+    <string name="add_nutrient_prompt_text">Add nutrition facts to compute the Nutri-Score</string>
     <string name="add_category_prompt_text">Add a category to help complete the product</string>
     <string name="add_nutrient_category_prompt_text">Add a category and nutrition facts to help complete the product</string>
     <string name="couldnot_compute_ecoscore_prompt_text">We could not compute an Eco-Score for this product. It might be that the category is not specific enough or that we don\'t have supporting data for this category. If you believe this is an error, you can mail us by clicking below.</string>

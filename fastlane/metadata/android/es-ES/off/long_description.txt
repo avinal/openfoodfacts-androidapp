@@ -1,11 +1,11 @@
-Escanea productos alimenticios o sus códigos de barras para obtener datos de los ingredientes, aditivos y datos nutricionales.
+Escanee los productos alimenticios para mascotas o sus códigos de barras para obtener información sobre los ingredientes, los aditivos y la información nutricional.
 
 ▶ Encontrar y comparar más de 800.000 productos
 
-La aplicación permite ver los 800.000 productos (incluyendo 175.000 en los EE.UU.) ya contenidos en la base de datos abierta y gratuita Open Food Facts, y también añadir imágenes y datos para nuevos productos.
+Para alimentos, puede instalar Open Food Facts, para cosméticos, Open Beauty Facts, y para alimentos para mascotas, Open Pet Food Facts.
 
 
-Para descubrir el proyecto Open Food Facts, dirigido por voluntarios, visite https://world.openfoodfacts.org
+Para saber más sobre el proyecto Open Pet Food Facts, por favor, visite https://world.openpetfoodfacts.org
 
 ▶ Elige los productos que son buenos para ti
 - La calificación Nutri-Score, de "A" a "E" >> Calidad nutricional
@@ -20,17 +20,17 @@ Para descubrir el proyecto Open Food Facts, dirigido por voluntarios, visite htt
 - Para mostrar un Impacto de Carbón, un producto debe tener una lista completa de ingredientes con % de carne o pescado y una cantidad
 
 
-***Contribuye a la transparencia sobre productos alimenticios para mascotas***
-- Open Products Facts es una base de datos de productos hecha por todos, para todos.
-- Puedes usarlo para tomar mejores decisiones, y como son datos abiertos, cualquiera puede volver a usarlos para cualquier propósito.
-- Open Products Facts es un proyecto sin fines de lucro desarrollado por miles de voluntarios de todo el mundo. Tenemos muchos proyectos interesantes a los que puedes contribuir de diferentes maneras.
-- Puedes agregar nuevos productos, incluso si no tienes una conexión a Internet en este momento.
+*** Contribuye a la Transparencia del Producto ***
+Open Pet Food Facts es una base de datos sobre productos alimenticios para mascotas hecha por todos y para todos.
+Puedes usarla para hacer mejores elecciones de cosméticos, posee datos abiertos, y cualquiera puede volver a usarla para cualquier propósito.
+- Open Beauty Facts es un proyecto sin animo de lucro desarrollado por miles de voluntarios de todas partes del mundo. Tenemos muchos proyectos interesantes a los que puedes contribuir de diferentes maneras.
+-Puedes empezar a contribuir hoy agregando tu primer producto.
 
 ▶ Crear listas
 Crea listas de compras, rastrea lo que has comido y comparte y exporta fácilmente tus listas.
 
-▶ Obten la información
-- Open Products Facts te ayuda a comprender la letra pequeña de las etiquetas de los productos. Podrás encontrar:
+*** Obtener los datos ***
+- Open Beauty Facts te ayuda a darle sentido a la letra pequeña en la etiqueta de los productos. También podrá encontrar (de acuerdo con las indicaciones presentes en los productos):
 - huella de carbono (emisiones de CO2) y embalaje (así como instrucciones de reciclaje),
 - Nutriscore (puntaje nutricional), nutrientes, contenido de grasa / grasa, ácidos grasos saturados, carbohidratos, azúcares, fibra, proteína, sal y sodio.
 - marcas, alérgenos, etiquetas (orgánicas, veganas...)
@@ -43,7 +43,7 @@ Crea listas de compras, rastrea lo que has comido y comparte y exporta fácilmen
 - El Nutri-Score ha sido creado por el equipo francés independiente dirigido por el profesor Hercberg.
 - Los grupos NOVA sobre procesamiento de alimentos han sido diseñados por el equipo internacional del profesor Monteiro.
 - Puedes obtener una síntesis de los niveles de exposición EFSA en aditivos alimentarios.
-- La comunidad de Open Food Facts está colaborando con equipos de investigación de todo el planeta para mejorar la investigación sobre nutrición que beneficie a todos.
+- Open Pet Food Facts es un proyecto sin fines de lucro desarrollado por miles de voluntarios de todo el mundo.
 
 
 ▶️ Escaneo Offline: ¡Escanea en cualquier condición! (próximamente)
@@ -51,9 +51,9 @@ Escanea a la velocidad de la luz (incluso si estás en un avión, submarino o su
 
 - Todo el planeta, en su bolsillo !
 - Puedes agregar nuevos productos, incluso si no tienes una conexión a Internet en este momento.
-- La aplicación solo carga lo estrictamente necesario para reducir el consumo de datos y batería.
+- La aplicación solo carga lo estrictamente necesario para reducir el consumo de datos y batería
 
-*** Tu comida de mascota, tus datos ***
+*** Sus productos, sus datos ***
 - Tus datos son tuyos y nunca se envían en línea
 - Puedes usar la aplicación de forma anónima
 - Puedes exportar tu historial de escaneo
@@ -67,10 +67,10 @@ Escanea a la velocidad de la luz (incluso si estás en un avión, submarino o su
 ▶ ¡Saluda y/o únete a nosotros!
 
 
-Open Products Facts también está disponible en la web en https://world.openproductsfacts.org
+Open Beauty Facts también disponible en la pagina web https://world.openbeautyfacts.org
 
 
 Preguntas, comentarios: contact@openfoodfacts.org
 
 
-Nota: Open Beauty Facts aun se encuentra en creación, el sitio y la aplicación están basados en Open Food Facts y los cambios serán hechos teniendo en cuenta las especificaciones de cada cosmético.
+Para alimentos para humanos, puede instalar Open Food Facts, para cosméticos, Open Beauty Facts, y para otros productos, Open Products Facts.

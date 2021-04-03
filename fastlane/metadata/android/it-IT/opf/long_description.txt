@@ -1,14 +1,14 @@
-Open Food Facts è un database di prodotti alimentari con ingredienti, allergeni, dati nutrizionali e tutti i frammenti d'informazione che si possono trovare sulle etichette dei prodotti.
+Open Products Facts è un database aperto di tutti i prodotti nel mondo.
 
-*** Contribuire alla trasparenza dei prodotti ***
+***Contribuire alla trasparenza del cibo per animali***
 
-- Open Products Facts è un database di prodotti fatto da tutti per tutti.
-- Puoi usarlo per fare migliori scelte e dato che sono dati aperti, chiunque può riutilizzarli per ogni scopo.
-- Open Products Facts è un progetto no-profit sviluppato da migliaia di volontari da tutto il mondo. Abbiamo molti progetti interessanti a cui puoi contribuire in molti modi diversi. 
-- Puoi iniziare a contribuire oggi aggiungendo il tuo primo prodotto. 
+- Open Pet Food Facts è un database di alimenti per animali realizzato da tutti, per tutti.
+- Puoi usarlo per scegliere meglio tra gli alimenti per animali e, dato che sono dati aperti, chiunque può riutilizzarlo per qualsiasi scopo.
+- Open Beauty Facts è un progetto senza scopo di lucro sviluppato da migliaia di volontari provenienti da tutto il mondo. Abbiamo molti progetti interessanti a cui puoi contribuire in molti modi diversi. 
+- Puoi iniziare a contribuire oggi aggiungendo un prodotto dei tuoi alimenti per animali. 
 
 *** Ottieni i fatti ***
-- Open Products Facts ti aiuta a dare un senso alle piccole scritte sulle etichette dei prodotti.
+- Open Beauty Facts ti aiuta a dare un senso alle piccole scritte sulle etichette dei prodotti.
 
 *** Raccogli TUUUUTTE le cose ***
 - Puoi aggiungere tutti gli articoli dalle tue raccolte
@@ -26,9 +26,9 @@ Open Food Facts è un database di prodotti alimentari con ingredienti, allergeni
 - Puoi usare l'app in modo anonimo
 - Puoi esportare la cronologia di scansione
 
-Per il cibo, è possibile installare Open Food Facts, per i cosmetici, Open Beauty Facts e per alimenti per animali domestici, Open Pet Food Facts.
+La raccolta di alimenti del mondo, cosmetici ed alimenti per animali domestici era così passé.
 
-Open Produts Facts è anche disponibile sul web ad https://world.openproductsfacts.org
+Open Beauty Facts è anche disponibile sul web all'indirizzo https://world-it.openbeautyfacts.org/
 Per domande e feedback: contact@openfoodfacts.org
 
 *** Elenco Originale Pesci D'Aprile ***
@@ -45,7 +45,7 @@ Open Crayons Facts - Il più grande database aperto di pastelli colorati
 
 Open Miniature Food Facts - Il più grande database di prodotti alimentari miniature
 
-Aperto ??? Facts - Il più grande database di ???
+Open ??? Facts - Il più grande database di ???
 
 Domani selezioneremo i 3 database più utili e inizieremo a raccogliere tutti i prodotti corrispondenti nel mondo.
 

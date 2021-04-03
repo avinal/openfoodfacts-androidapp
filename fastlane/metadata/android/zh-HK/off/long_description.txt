@@ -1,8 +1,8 @@
-掃描食品或條碼瞭解食物成分、添加劑及營養成分。
+掃描寵物食品或包裝上的條碼瞭解食物成分、添加劑及營養成分。
 
 ▶ 尋找和比較超過80萬個產品
 
-The app allows to view the over 600 pet food products already contained in the free and open database Open Pet Food Facts, and also to add pictures and data for missing products.
+For human food, you can install Open Food Facts, for pet food, Open Pet Food Facts, and for all other products, Open Products Facts.
 
 
 Open Food Facts 是一個食品的開發資料庫，它提供食品的營養成份、原料、配料、過敏原、…等資訊。這些資訊的來源全來自於產品本身的外包裝，
@@ -20,17 +20,17 @@ Open Food Facts 是一個食品的開發資料庫，它提供食品的營養成�
 - To display a Carbon Impact, a product must have a complete ingredient list with % of meat or fish and a quantity
 
 
-*** Contribute to Product Transparency ***
-- Open Products Facts is a products database made by everyone, for everyone.
-- You can use it to make better choices, and as it is open data, anyone can re-use it for any purpose.
-- Open Products Facts is a non-profit project developed by thousands of volunteers from around the world. We have lots of exciting projects you can contribute to in many different ways.
-- You can start contributing today by adding your first product.
+*** 掌握資訊 ***
+- Open Pet Food Facts is a pet food products database made by everyone, for everyone.
+- You can use it to make better pet food choices, and as it is open data, anyone can re-use it for any purpose.
+- Open Pet Food Facts is a non-profit project developed by thousands of volunteers from around the world. We have lots of exciting projects you can contribute to in many different ways.
+- You can start contributing today by adding a product from your pet's cupboard.
 
 ▶ Create lists
 Create shopping lists, track what you've eaten and easily share and export your lists.
 
-▶ Get the Facts
-- Open Products Facts helps you to make sense of the fine print on products labels. You will also be able to find (according to the indications present on the products):
+*** 掌握資訊 ***
+- Open Beauty Facts helps you to make sense of the fine print on products labels. You will be able to find:
 - carbon footprint (CO2 emissions) and packaging (as well as recycling instructions),
 - Nutriscore (nutritional score), nutrients, fat / fat content, saturated fatty acids, carbohydrates, sugars, fiber, protein and salt and sodium.
 - 品牌、過敏原、標籤（有機、純素食等）
@@ -46,12 +46,12 @@ Create shopping lists, track what you've eaten and easily share and export your 
 - The Open Food Facts community is collaborating with research teams across the planet to improve nutrition research that benefits all.
 
 
-▶ 離線掃描：隨時隨地掃描產品！ (coming soon)
+▶ 離線掃描：隨時隨地掃描產品！ (coming soon) (coming soon)
 不論您在飛機上、潛水艇裏或在逛超市，您都可以以光速掃描產品
 
 - The whole planet, in your pocket !
 - You can add new products, even if you don't have an Internet connection right now.
-- The app loads only the strict necessary to reduce data and battery consumption
+- The app loads only the strict necessary to reduce data and battery consumption.
 
 *** Your products, your data ***
 - 您的個人數據是您的，永遠不會上載網上
@@ -60,17 +60,17 @@ Create shopping lists, track what you've eaten and easily share and export your 
 
 ▶ 設置產品過敏原警告
 - 對牛奶、麩質、雞蛋、大豆、堅果、魚、芹菜、芥末、二氧化硫和亞硫酸鹽、花生、芝麻籽、海鮮、軟體動物或羽扇豆過敏？
-- Open Miniature Food Facts - The largest open database of miniature food products
+- Speed up your shopping by doing an initial screening of your food with Open Food Facts.
 - 請注意，過敏資料和偵測未必完全準確。 因此，請仔細檢查食品包裝上的過敏原資料。
 
 
 ▶ Say hello and/or join us!
 
 
-Open Products Facts is also available on the web at https://world.openproductsfacts.org
+Open Beauty Facts is also available on the web at https://world.openbeautyfacts.org
 
 
 疑問及反饋：contact@openfoodfacts.org
 
 
-For human food, you can install Open Food Facts, for pet food, Open Pet Food Facts, and for all other products, Open Products Facts.
+For human food, you can install Open Food Facts, for cosmetics, Open Beauty Facts, and for all other products, Open Products Facts.

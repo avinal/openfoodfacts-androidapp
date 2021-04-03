@@ -123,7 +123,7 @@
         <item>Pļavas skābe (20: 3 n-9)</item>
         <item>Melisīnskābe (30: 0)</item>
         <item>Molibdēns</item>
-        <item>Mononepiesātinātie tauki</item>
+        <item>Monounsaturated fat</item>
         <item>Montānskābe (28: 0)</item>
         <item>Miristiskā skābe (14: 0)</item>
         <item>Nervonskābe (24: 1 n-9)</item>
@@ -137,7 +137,7 @@
         <item>pH</item>
         <item>Fosfors</item>
         <item>Cukura spirti (polioli)</item>
-        <item>Polipropilēnu nesaturēti tauki</item>
+        <item>Polyunsaturated fat</item>
         <item>Kālijs</item>
         <item>Selēns</item>
         <item>Seruma olbaltumvielas</item>
@@ -160,7 +160,6 @@
         <item>K vitamīns</item>
         <item>Cinks</item>
     </string-array>
-    <!-- Text units -->
     <!-- Content Description -->
     <string name="search_button">Meklēt</string>
     <string name="alert_dialog_warning_title">Brīdinājums</string>
@@ -327,8 +326,8 @@
     <string name="for_100g">100 g</string>
     <string name="for_100ml">Par 100 ml</string>
     <string name="serving">Uz porciju</string>
-    <string name="nutrition_monounsaturatedFat">Mononepiesātinātie tauki</string>
-    <string name="nutrition_polyunsaturatedFat">Polipropilēnu nesaturēti tauki</string>
+    <string name="nutrition_monounsaturatedFat">Monounsaturated fat</string>
+    <string name="nutrition_polyunsaturatedFat">Polyunsaturated fat</string>
     <string name="nutrition_omega3">Omega 3</string>
     <string name="nutrition_omega6">Omega 6</string>
     <string name="nutrition_omega9">Omega 9</string>
@@ -413,7 +412,7 @@
     <string name="device_offline_dialog_message">Lai to izdarītu, ir nepieciešams tīkla savienojums, vai vēlaties to mainīt iestatījumos?</string>
     <string name="device_offline_dialog_negative">Atcelt</string>
     <string name="device_offline_dialog_positive">Iestatījumi</string>
-    <string name="scan_first_product">Skenējiet pirmo produktu</string>
+    <string name="scan_first_product">Scan your first product</string>
     <string name="device_on_mobile_data_warning_title">Informācija</string>
     <string name="device_on_mobile_data_warning_message">Jūs esat atspējojis augšupielādi mobilajos datos. Lūdzu, izveidojiet savienojumu ar WiFi vai mainiet to preferencēs</string>
     <string name="device_on_mobile_data_warning_positive">Iestatījumi</string>
@@ -671,7 +670,7 @@
     <!-- Used for additive exposure evaluation table -->
     <string name="extract_ingredients_prompt">Ekstrakta sastāvdaļas</string>
     <string name="extract_recycling_prompt">Extract recycling instructions</string>
-    <string name="add_nutrient_prompt_text">Add nutrition facts to compute nutrient levels</string>
+    <string name="add_nutrient_prompt_text">Add nutrition facts to compute the Nutri-Score</string>
     <string name="add_category_prompt_text">Add a category to help complete the product</string>
     <string name="add_nutrient_category_prompt_text">Add a category and nutrition facts to help complete the product</string>
     <string name="couldnot_compute_ecoscore_prompt_text">We could not compute an Eco-Score for this product. It might be that the category is not specific enough or that we don\'t have supporting data for this category. If you believe this is an error, you can mail us by clicking below.</string>

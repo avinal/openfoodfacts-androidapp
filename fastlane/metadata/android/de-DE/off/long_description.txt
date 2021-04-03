@@ -1,11 +1,11 @@
-Lebensmittel erfassen oder deren Barcode einlesen, um Daten über Inhaltsstoffe, Zusatzstoffe und Nährwertangaben zu erhalten.
+Tierfutter erfassen oder deren Strichcode einlesen, um Daten über Inhaltsstoffe, Zusatzstoffe und Nährwertangaben zu erhalten.
 
 ▶ Findet und vergleicht mehr als 800.000 Produkte
 
-Die App ermöglicht es, die 800.000 Produkte (davon 175.000 in den USA) anzuzeigen, die bereits in der kostenlosen und offenen Datenbank Open Food Facts enthalten sind, sowie Fotos und Daten für neue Produkte hinzuzufügen.
+Für Lebensmittel können Sie „Open Food Facts”, für Kosmetika „Open Beauty Facts” und für Tiernahrung „Open Pet Food Facts” installieren.
 
 
-Gestern Morgen erwachte das Open Food Facts Team zu einer erstaunlichen Enthüllung.
+Um das Projekt „Open Pet Food Facts” zu entdecken, besuchen Sie bitte https://world.openpetfoodfacts.org
 
 ▶ Wählen Sie die Produkte aus, die gut für Sie sind
 • Die Nutri-Score-Klasse, von „A” bis „E” ➜ Nährwertqualität
@@ -20,17 +20,17 @@ Gestern Morgen erwachte das Open Food Facts Team zu einer erstaunlichen Enthüll
 • Um den CO₂-Einfluss anzuzeigen, muss ein Produkt eine vollständige Zutatenliste mit dem Prozentsatz an Fleisch oder Fisch und einer Menge aufweisen
 
 
-▶ Beitrag zur Lebensmitteltransparenz
-• Open Products Facts ist eine Produktdatenbank, die von jedermann für alle erstellt wurde.
-• Sie können sie verwenden, um bessere Lebensmittelauswahlen zu treffen und da es sich um offene Daten handelt, kann jeder sie für jeden Zweck weiterverwenden.
-• Open Products Facts ist ein gemeinnütziges Projekt, das von Tausenden von Freiwilligen aus der ganzen Welt entwickelt wurde. Wir haben viele spannende Projekte, zu denen Sie auf vielfältige Weise beitragen können.
-• Sie können noch heute beginnen, indem Sie Ihr erstes Produkt hinzufügen.
+★★★ Beitrag zur Transparenz von Produkten ★★★
+• Open Pet Food Facts ist eine Tiernahrungsdatenbank, die von jedermann für alle erstellt wurde.
+• Sie können sie verwenden, um bessere Tierfutterauswahlen zu treffen, und da es sich um offene Daten handelt, kann jeder sie für jeden Zweck weiterverwenden.
+• Open Pet Food Facts ist ein gemeinnütziges Projekt, das von Tausenden von Freiwilligen aus der ganzen Welt entwickelt wurde. Wir haben viele spannende Projekte, zu denen Sie auf vielfältige Weise beitragen können.
+• Sie können noch heute einen Beitrag leisten, indem Sie ein Produkt aus Ihrem Haustierschrank hinzufügen.
 
 ▶ Listen erstellen
 Erstellen Sie Einkaufslisten, verfolgen Sie, was Sie gegessen haben, und teilen und exportieren Sie einfach Ihre Listen.
 
 ★★★ Fakten abrufen ★★★
-• Open Products Facts hilft Ihnen, das Kleingedruckte auf Produktetiketten zu verstehen. Sie können finden:
+• Open Products Facts hilft Ihnen, das Kleingedruckte auf Produktetiketten zu verstehen. Was Sie ebenfalls finden können (entsprechend den Angaben auf den Produkten):
 • CO₂-Fußabdruck (CO2-Emissionen) und Verpackung (sowie Verwertungshinweise),
 • Nutri-Score (Nährwertbewertung), Nährstoffe, Fett/Fettgehalt, gesättigte Fettsäuren, Kohlenhydrate, Zucker, Ballaststoffe, Eiweiß und Salz und Natrium.
 • Marken, Allergene, Etiketten (Bio, Vegan …)
@@ -51,16 +51,16 @@ Mit Lichtgeschwindigkeit erfassen (auch wenn Sie sich in einem Flugzeug, U-Boot 
 
 • Den ganzen Planeten, in Ihrer Tasche!
 • Sie können neue Produkte hinzufügen, auch wenn gerade keine Internetverbindung besteht.
-• Die App lädt nur das Notwendigste, um den Daten- und Batterieverbrauch zu reduzieren.
+• Die App lädt nur das absolut Notwendige, um den Daten- und Batterieverbrauch zu reduzieren
 
-★★★ Ihr Tierfutter — Ihre Daten ★★★
-• Ihre persönlichen Daten gehören Ihnen und werden niemals online gesendet
+★★★ Ihre Produkte — Ihre Daten ★★★
+• Ihre Daten gehören Ihnen und werden niemals online gesendet
 • Sie können die Anwendung auch anonym verwenden
 • Sie können Ihren Erfassungsverlauf exportieren
 
 ▶ Warnhinweise für allergene Produkte festlegen
 • Allergisch auf Milch, Gluten, Eier, Sojabohnen, Nüsse, Fisch, Sellerie, Senf, Schwefeldioxid und Sulfite, Erdnüsse, Sesam, Krustentiere, Weichtiere oder Lupinen?
-• Beschleunigen Sie Ihren Einkauf, indem Sie eine erste Überprüfung Ihrer Lebensmittel mit Open Food Facts durchführen.
+Open Miniature Food Facts - Die größte offene Datenbank für Miniaturnahrungsmittel
 • Achten Sie darauf, dass die Informationen und die Erkennungsrate nicht zu 100% genau sein könnten. Überprüfen Sie deshalb immer eigenverantwortlich, mit den auf der Verpackung angegebenen Werten.
 
 
@@ -73,4 +73,4 @@ Open Products Facts ist auch im Internet verfügbar unter https://world.openprod
 Fragen und Rückmeldungen: contact@openfoodfacts.org
 
 
-Hinweis: Open Beauty Facts befindet sich im Aufbau, die Seite und die Anwendung basieren auf Open Food Facts und es werden Änderungen vorgenommen, um den Besonderheiten der Kosmetik Rechnung tragen zu können.
+Für Lebensmittel können Sie „Open Food Facts”, für Kosmetik „Open Beauty Facts” und für alle anderen Produkte „Open Products Facts” installieren.

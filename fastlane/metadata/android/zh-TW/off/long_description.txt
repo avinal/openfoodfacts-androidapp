@@ -2,7 +2,7 @@ Scan pet food products or their barcode to obtain data on ingredients, additives
 
 ▶ Find & Compare more than 800.000 products
 
-The app allows to view the over 600 pet food products already contained in the free and open database Open Pet Food Facts, and also to add pictures and data for missing products.
+For human food, you can install Open Food Facts, for pet food, Open Pet Food Facts, and for all other products, Open Products Facts.
 
 
 Open Food Facts 是一個食品的開發資料庫，它提供食品的營養成份、原料、配料、過敏原、…等資訊。這些資訊的來源全來自於產品本身的外包裝，
@@ -20,17 +20,17 @@ Open Food Facts 是一個食品的開發資料庫，它提供食品的營養成�
 - To display a Carbon Impact, a product must have a complete ingredient list with % of meat or fish and a quantity
 
 
-*** Contribute to Product Transparency ***
-- Open Products Facts is a products database made by everyone, for everyone.
-- You can use it to make better choices, and as it is open data, anyone can re-use it for any purpose.
-- Open Products Facts is a non-profit project developed by thousands of volunteers from around the world. We have lots of exciting projects you can contribute to in many different ways.
-- You can start contributing today by adding your first product.
+***Contribute to Pet Food Transparency***
+- Open Pet Food Facts is a pet food products database made by everyone, for everyone.
+- You can use it to make better pet food choices, and as it is open data, anyone can re-use it for any purpose.
+- Open Pet Food Facts is a non-profit project developed by thousands of volunteers from around the world. We have lots of exciting projects you can contribute to in many different ways.
+- You can start contributing today by adding a product from your pet's cupboard.
 
 ▶ Create lists
 Create shopping lists, track what you've eaten and easily share and export your lists.
 
 *** Get the Facts ***
-- Open Products Facts helps you to make sense of the fine print on products labels. You will also be able to find (according to the indications present on the products):
+- Open Beauty Facts helps you to make sense of the fine print on products labels. You will also be able to find (according to the indications present on the products):
 - carbon footprint (CO2 emissions) and packaging (as well as recycling instructions),
 - Nutriscore (nutritional score), nutrients, fat / fat content, saturated fatty acids, carbohydrates, sugars, fiber, protein and salt and sodium.
 - brands, allergens, labels (organic, vegan...)
@@ -53,8 +53,8 @@ Scan at the speed of light (even if you’re on a plane, submarine or supermarke
 - You can add new products, even if you don't have an Internet connection right now.
 - The app loads only the strict necessary to reduce data and battery consumption
 
-*** Your products, your data ***
-- Your personal data is yours, and is never sent online
+*** Your pet food, your data ***
+- Your data is yours, and is never sent online
 - You can use the app anonymously
 - You can export your scan history
 
@@ -67,10 +67,10 @@ Scan at the speed of light (even if you’re on a plane, submarine or supermarke
 ▶ Say hello and/or join us!
 
 
-Open Products Facts is also available on the web at https://world.openproductsfacts.org
+Open Beauty Facts is also available on the web at https://world.openbeautyfacts.org
 
 
 Questions, feedback : contact@openfoodfacts.org
 
 
-For human food, you can install Open Food Facts, for pet food, Open Pet Food Facts, and for all other products, Open Products Facts.
+For human food, you can install Open Food Facts, for cosmetics, Open Beauty Facts, and for all other products, Open Products Facts.

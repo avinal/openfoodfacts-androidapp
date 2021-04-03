@@ -118,7 +118,7 @@
         <item>Mead-sav (20:3 n-9)</item>
         <item>Melisinsav (30: 0)</item>
         <item>Molibdén</item>
-        <item>Egyszeresen telítetlen zsírsavak</item>
+        <item>Monounsaturated fat</item>
         <item>Montánsav (28: 0)</item>
         <item>Mirisztinsav (14:0)</item>
         <item>Nervonsav (24:1 n-9)</item>
@@ -132,7 +132,7 @@
         <item>pH</item>
         <item>Foszfor</item>
         <item>Cukoralkoholok (Poliolok)</item>
-        <item>Többszörösen telítetlen zsírsavak</item>
+        <item>Polyunsaturated fat</item>
         <item>Kálium</item>
         <item>Szelén</item>
         <item>Szérumfehérje</item>
@@ -155,7 +155,6 @@
         <item>K-vitamin</item>
         <item>Cink</item>
     </string-array>
-    <!-- Text units -->
     <!-- Content Description -->
     <string name="search_button">Keres</string>
     <string name="alert_dialog_warning_title">Figyelmeztetés</string>
@@ -322,8 +321,8 @@
     <string name="for_100g">100 g-ra</string>
     <string name="for_100ml">100 ml-re</string>
     <string name="serving">Adagonként</string>
-    <string name="nutrition_monounsaturatedFat">Egyszeresen telítetlen zsírsavak</string>
-    <string name="nutrition_polyunsaturatedFat">Többszörösen telítetlen zsírsavak</string>
+    <string name="nutrition_monounsaturatedFat">Monounsaturated fat</string>
+    <string name="nutrition_polyunsaturatedFat">Polyunsaturated fat</string>
     <string name="nutrition_omega3">Omega-3</string>
     <string name="nutrition_omega6">Omega-6</string>
     <string name="nutrition_omega9">Omega-9</string>
@@ -408,7 +407,7 @@
     <string name="device_offline_dialog_message">Ehhez a művelethez hálózati kapcsolat szükséges, szeretné megváltoztatni a beállításokat?</string>
     <string name="device_offline_dialog_negative">Elutasít</string>
     <string name="device_offline_dialog_positive">Beállítások</string>
-    <string name="scan_first_product">Első termék beolvasása</string>
+    <string name="scan_first_product">Scan your first product</string>
     <string name="device_on_mobile_data_warning_title">Információ</string>
     <string name="device_on_mobile_data_warning_message">A feltöltés mobilinterneten le van tiltva, kérjük, csatlakozzon WiFi-hez vagy módosítsa a beállításokat</string>
     <string name="device_on_mobile_data_warning_positive">Beállítások</string>
@@ -666,9 +665,9 @@
     <!-- Used for additive exposure evaluation table -->
     <string name="extract_ingredients_prompt">Összetevők kiolvasása</string>
     <string name="extract_recycling_prompt">Extract recycling instructions</string>
-    <string name="add_nutrient_prompt_text">Add nutrition facts to compute nutrient levels</string>
+    <string name="add_nutrient_prompt_text">Add nutrition facts to compute the Nutri-Score</string>
     <string name="add_category_prompt_text">Add a category to help complete the product</string>
-    <string name="add_nutrient_category_prompt_text">Add a category and nutrition facts to help complete the product</string>
+    <string name="add_nutrient_category_prompt_text">Add nutrition facts and a category to compute the Nutri-Score</string>
     <string name="couldnot_compute_ecoscore_prompt_text">We could not compute an Eco-Score for this product. It might be that the category is not specific enough or that we don\'t have supporting data for this category. If you believe this is an error, you can mail us by clicking below.</string>
     <string name="add_labels_origins_prompt_text">The Eco-Score takes into account environmental labels and origins of the ingredients. Please take them into photo or edit the product so that they can be taken into account</string>
     <string name="add_labels_prompt_text">The Eco-Score takes into account environmental labels. Please take them into photo or edit the product so that they can be taken into account</string>

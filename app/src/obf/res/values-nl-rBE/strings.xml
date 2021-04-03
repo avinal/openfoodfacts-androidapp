@@ -3,9 +3,9 @@
     <!-- For fr, Replace by https://world-fr.openbeautyfacts.org/ -->
     <string name="website">https://world-nl.openbeautyfacts.org/</string>
     <!-- For fr, Replace by https://world-fr.openbeautyfacts.org/contribuer -->
-    <string name="website_contribute">https://world.openbeautyfacts.org/contribute</string>
+    <string name="website_contribute">https://world.openbeautyfacts.org/contribute&amp;hl=nl</string>
     <!-- For fr, Replace by https://world-fr.openbeautyfacts.org/decouvrir -->
-    <string name="website_discover">https://world.openbeautyfacts.org/discover</string>
+    <string name="website_discover">https://world.openbeautyfacts.org/discover&amp;hl=nl</string>
     <!-- For fr, Replace by https://world-fr.openbeautyfacts.org/produit/ -->
     <string name="website_product">https://world.openbeautyfacts.org/product/</string>
     <!-- For fr, Replace by https://world-fr.openbeautyfacts.org/contributeur/ -->
@@ -31,7 +31,7 @@
     <string name="warning_alert_data" tools:ignore="StringFormatInvalid">Uw allergie-informatie zal nooit naar de Open Beauty Facts worden verzonden. Wees er attent op dat productgegevens, en detectie, niet altijd accuraat zijn, dus controleer de gegevens alsjeblieft zelf! </string>
     <!-- OBF tagline in different languages -->
     <string name="version_string">Open Beauty Facts Android-app</string>
-    <string name="tagline">de open database voor cosmetica</string>
+    <string name="tagline">the free cosmetics database</string>
     <string name="product_not_found">Het gescande product %1$s bestaat nog niet in Open Beauty Facts. Voeg deze toe?</string>
     <string name="currently_on_version">Momenteel op Open Beauty Facts</string>
     <string name="category_game_btn">Help producten te categoriseren</string>

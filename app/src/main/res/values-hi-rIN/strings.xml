@@ -118,7 +118,7 @@
         <item>Mead acid (20:3 n-9)</item>
         <item>Melissic acid (30:0)</item>
         <item>मॉलीब्डेनम</item>
-        <item>एक-संतृप्त वसा</item>
+        <item>Monounsaturated fat</item>
         <item>Montanic acid (28:0)</item>
         <item>Myristic acid (14:0)</item>
         <item>Nervonic acid (24:1 n-9)</item>
@@ -132,7 +132,7 @@
         <item>पीएच</item>
         <item>फॉस्फोरस</item>
         <item>Sugar alcohols (Polyols)</item>
-        <item>बहुसंतृप्त वसा</item>
+        <item>Polyunsaturated fat</item>
         <item>पोटेशियम</item>
         <item>सेलेनियम</item>
         <item>Serum proteins</item>
@@ -155,7 +155,6 @@
         <item>विटामिन के</item>
         <item>ज़िंक</item>
     </string-array>
-    <!-- Text units -->
     <!-- Content Description -->
     <string name="search_button">ढूंढें</string>
     <string name="alert_dialog_warning_title">चेतावनी</string>
@@ -322,8 +321,8 @@
     <string name="for_100g">१०० g के लिए</string>
     <string name="for_100ml">For 100 ml</string>
     <string name="serving">प्रत्येक हिस्सा</string>
-    <string name="nutrition_monounsaturatedFat">एक-संतृप्त वसा</string>
-    <string name="nutrition_polyunsaturatedFat">बहुसंतृप्त वसा</string>
+    <string name="nutrition_monounsaturatedFat">Monounsaturated fat</string>
+    <string name="nutrition_polyunsaturatedFat">Polyunsaturated fat</string>
     <string name="nutrition_omega3">ओमेगा 3</string>
     <string name="nutrition_omega6">ओमेगा 6</string>
     <string name="nutrition_omega9">ओमेगा 9</string>
@@ -408,7 +407,7 @@
     <string name="device_offline_dialog_message">ऐसा करने के लिए नेटवर्क कनेक्शन की आवश्यकता है, क्या आप इसे सेटिंग्स में बदलना चाहेंगे?</string>
     <string name="device_offline_dialog_negative">ख़ारिज करें</string>
     <string name="device_offline_dialog_positive">सेटिंग्स</string>
-    <string name="scan_first_product">पहला उत्पाद स्कैन करें</string>
+    <string name="scan_first_product">Scan your first product</string>
     <string name="device_on_mobile_data_warning_title">जानकारी</string>
     <string name="device_on_mobile_data_warning_message">You have disabled upload on mobile data , please connect to WiFi or change this in preferences</string>
     <string name="device_on_mobile_data_warning_positive">प्राथमिकताएँ</string>
@@ -665,7 +664,7 @@
     <!-- Used for additive exposure evaluation table -->
     <string name="extract_ingredients_prompt">Extract ingredients</string>
     <string name="extract_recycling_prompt">Extract recycling instructions</string>
-    <string name="add_nutrient_prompt_text">Add nutrition facts to compute nutrient levels</string>
+    <string name="add_nutrient_prompt_text">Add nutrition facts to compute the Nutri-Score</string>
     <string name="add_category_prompt_text">Add a category to help complete the product</string>
     <string name="add_nutrient_category_prompt_text">Add a category and nutrition facts to help complete the product</string>
     <string name="couldnot_compute_ecoscore_prompt_text">We could not compute an Eco-Score for this product. It might be that the category is not specific enough or that we don\'t have supporting data for this category. If you believe this is an error, you can mail us by clicking below.</string>

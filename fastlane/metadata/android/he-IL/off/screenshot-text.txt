@@ -5,7 +5,7 @@ https://play.google.com/store/apps/details?id=org.openfoodfacts.scanner&hl=he
 צילומי מסך של גרסה 2
 =====================
 
-סריקת מוצרים
+לסרוק מוצרים
 
 קבלת ה־Nutriscore
 
@@ -35,7 +35,7 @@ https://play.google.com/store/apps/details?id=org.openfoodfacts.scanner&hl=he
 
 רב עצמה
 
-עובדות תזונתיות
+מפרט תזונתי
 
 =====================
 צילומי מסך של גרסה 3

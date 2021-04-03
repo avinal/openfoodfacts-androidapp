@@ -114,7 +114,7 @@
         <item>米德酸 (20:3 n-9)</item>
         <item>蜂花酸(30:0)</item>
         <item>钼</item>
-        <item>单元不饱和脂肪</item>
+        <item>Monounsaturated fat</item>
         <item>褐煤酸(28:0)</item>
         <item>肉豆蔻酸 (14:0)</item>
         <item>神经酸 (24:1 n-9)</item>
@@ -128,7 +128,7 @@
         <item>pH</item>
         <item>磷</item>
         <item>Sugar alcohols (Polyols)</item>
-        <item>多不饱和脂肪</item>
+        <item>Polyunsaturated fat</item>
         <item>钾</item>
         <item>硒</item>
         <item>血清蛋白</item>
@@ -151,7 +151,6 @@
         <item>维生素 K</item>
         <item>锌</item>
     </string-array>
-    <!-- Text units -->
     <!-- Content Description -->
     <string name="search_button">搜索</string>
     <string name="alert_dialog_warning_title">警告</string>
@@ -318,8 +317,8 @@
     <string name="for_100g">每 100 g</string>
     <string name="for_100ml">For 100 ml</string>
     <string name="serving">每份</string>
-    <string name="nutrition_monounsaturatedFat">单元不饱和脂肪</string>
-    <string name="nutrition_polyunsaturatedFat">多不饱和脂肪</string>
+    <string name="nutrition_monounsaturatedFat">Monounsaturated fat</string>
+    <string name="nutrition_polyunsaturatedFat">Polyunsaturated fat</string>
     <string name="nutrition_omega3">欧米伽 3</string>
     <string name="nutrition_omega6">欧米伽 6</string>
     <string name="nutrition_omega9">欧米伽 9</string>
@@ -404,7 +403,7 @@
     <string name="device_offline_dialog_message">需要网络连接来做到这一点，你想在设置中改变它吗？</string>
     <string name="device_offline_dialog_negative">忽略</string>
     <string name="device_offline_dialog_positive">设置</string>
-    <string name="scan_first_product">扫描第一个产品</string>
+    <string name="scan_first_product">Scan your first product</string>
     <string name="device_on_mobile_data_warning_title">信息</string>
     <string name="device_on_mobile_data_warning_message">您已禁止上传移动数据，请连接到WiFi或更改其首选项</string>
     <string name="device_on_mobile_data_warning_positive">偏好</string>
@@ -660,7 +659,7 @@
     <!-- Used for additive exposure evaluation table -->
     <string name="extract_ingredients_prompt">提取成分</string>
     <string name="extract_recycling_prompt">Extract recycling instructions</string>
-    <string name="add_nutrient_prompt_text">添加营养成分以计算营养水平</string>
+    <string name="add_nutrient_prompt_text">Add nutrition facts to compute the Nutri-Score</string>
     <string name="add_category_prompt_text">添加类别以帮助完成产品</string>
     <string name="add_nutrient_category_prompt_text">添加类别和营养成分以帮助完善产品信息</string>
     <string name="couldnot_compute_ecoscore_prompt_text">We could not compute an Eco-Score for this product. It might be that the category is not specific enough or that we don\'t have supporting data for this category. If you believe this is an error, you can mail us by clicking below.</string>
@@ -699,7 +698,7 @@
     <string name="empty"></string>
     <string name="add_product">添加产品</string>
     <string name="add_another_product">Add another product</string>
-    <string name="add_nutrition_facts_for_nutriscore">添加营养成分以计算营养水平</string>
+    <string name="add_nutrition_facts_for_nutriscore">Add nutrition facts to compute the Nutri-Score</string>
     <string name="product_summary_action_compare_button_label">比较</string>
     <string name="product_summary_action_add_to_list_button_label">Add to list</string>
     <string name="product_summary_action_edit_button_label">编辑</string>

@@ -1,4 +1,4 @@
-Open Products Facts is an open database of all products in the world.
+Open Food Facts is an open database of food products with ingredients, allergens, nutrition facts and all the tidbits of information we can find on product labels.
 
 *** Contribute to Product Transparency ***
 
@@ -7,7 +7,7 @@ Open Products Facts is an open database of all products in the world.
 - Open Products Facts is a non-profit project developed by thousands of volunteers from around the world. Имаме много вълнуващи проекти, на които можете да допринесете по много различни начини. 
 - You can start contributing today by adding your first product. 
 
-*** Запознайте се с фактите ***
+*** Get the Facts ***
 - Open Products Facts helps you to make sense of the fine print on products labels.
 
 *** Collect AAAALL the things ***

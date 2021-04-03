@@ -118,7 +118,7 @@
         <item>Mead acid (20:3 n-9)</item>
         <item>Melissic acid (30:0)</item>
         <item>Molibdenoa</item>
-        <item>Gantz mono insaturatua</item>
+        <item>Monounsaturated fat</item>
         <item>Montanic acid (28:0)</item>
         <item>Myristic acid (14:0)</item>
         <item>Nervonic acid (24:1 n-9)</item>
@@ -132,7 +132,7 @@
         <item>pH</item>
         <item>Fosforoa</item>
         <item>Sugar alcohols (Polyols)</item>
-        <item>Gantz poli insaturatua</item>
+        <item>Polyunsaturated fat</item>
         <item>Potasioa</item>
         <item>Selenioa</item>
         <item>Serum proteins</item>
@@ -155,7 +155,6 @@
         <item>K bitamina</item>
         <item>Zink</item>
     </string-array>
-    <!-- Text units -->
     <!-- Content Description -->
     <string name="search_button">Bilatu</string>
     <string name="alert_dialog_warning_title">Abisua</string>
@@ -322,8 +321,8 @@
     <string name="for_100g">100 g-ko</string>
     <string name="for_100ml">For 100 ml</string>
     <string name="serving">Errazio bakoitzeko</string>
-    <string name="nutrition_monounsaturatedFat">Gantz mono insaturatua</string>
-    <string name="nutrition_polyunsaturatedFat">Gantz poli insaturatua</string>
+    <string name="nutrition_monounsaturatedFat">Monounsaturated fat</string>
+    <string name="nutrition_polyunsaturatedFat">Polyunsaturated fat</string>
     <string name="nutrition_omega3">Omega 3</string>
     <string name="nutrition_omega6">Omega 6</string>
     <string name="nutrition_omega9">Omega 9</string>
@@ -408,7 +407,7 @@
     <string name="device_offline_dialog_message">Sare konexioa behar da hau egiteko, ezarpenetan hau aldatu nahi duzu?</string>
     <string name="device_offline_dialog_negative">Baztertu</string>
     <string name="device_offline_dialog_positive">Ezarpenak</string>
-    <string name="scan_first_product">Eskaneatu lehen produktua</string>
+    <string name="scan_first_product">Scan your first product</string>
     <string name="device_on_mobile_data_warning_title">Informazioa</string>
     <string name="device_on_mobile_data_warning_message">Upload on mobile data is disabled, please connect to WiFi or change this in preferences</string>
     <string name="device_on_mobile_data_warning_positive">Hobespenak</string>
@@ -665,7 +664,7 @@
     <!-- Used for additive exposure evaluation table -->
     <string name="extract_ingredients_prompt">Extract ingredients</string>
     <string name="extract_recycling_prompt">Extract recycling instructions</string>
-    <string name="add_nutrient_prompt_text">Add nutrition facts to compute nutrient levels</string>
+    <string name="add_nutrient_prompt_text">Add nutrition facts to compute the Nutri-Score</string>
     <string name="add_category_prompt_text">Add a category to help complete the product</string>
     <string name="add_nutrient_category_prompt_text">Add a category and nutrition facts to help complete the product</string>
     <string name="couldnot_compute_ecoscore_prompt_text">We could not compute an Eco-Score for this product. It might be that the category is not specific enough or that we don\'t have supporting data for this category. If you believe this is an error, you can mail us by clicking below.</string>

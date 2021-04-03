@@ -1,11 +1,11 @@
-Imbas produk makanan atau kod bar untuk memperolehi data tentang fakta ramuan, aditif dan nutrisi.
+Scan pet food products or their barcode to obtain data on ingredients, additives and nutrition facts.
 
 Cari dan bandingkan lebih daripada 800,000 produk
 
-App ini benarkan untuk lihat 800,000 produk (termasuk 175,000 di Amerika Syarikat) telahpun terkandung dalam pangkalan data percuma dan terbuka Fakta Makanan Terbuka, dan juga untuk tambah gambar dan data produk-produk baharu.
+The app allows to view the over 600 pet food products already contained in the free and open database Open Pet Food Facts, and also to add pictures and data for missing products.
 
 
-Untuk mencari projek Fakta Makanan Terbuka yang dikendali secara sukarela, lawati https://world.openfoodfacts.org
+To discover the Open Pet Food Facts project, please visit https://world.openpetfoodfacts.org
 
 ▶ Pilih produk yang baik untuk anda
 - Gred Nutri-Score, daripada "A" hingga "E" >> Kualiti nutrisi
@@ -20,20 +20,20 @@ Untuk mencari projek Fakta Makanan Terbuka yang dikendali secara sukarela, lawat
 - To display a Carbon Impact, a product must have a complete ingredient list with % of meat or fish and a quantity
 
 
-▶ Contribute to Food Transparency
-- Fakta Makanan Terbuka adalah pangkalan data yang dibuat oleh semua orang, untuk semua orang.
-- Anda boleh gunakannya untuk membuat pilihan makanan yang lebih baik, dan oleh sebab ia adalah data terbuka, sesiapa pun boleh ulang guna untuk sebarang tujuan.
-- Fakta Makanan Terbuka adalah projek bukan berasaskan keuntungan yang dibangunkan oleh ribuan sukarelawan dari seluruh dunia. Kami ada banyak projek menarik boleh anda sumbangkan dalam pelbagai cara.
-- You can start contributing today by adding a product from your fridge.
+*** Contribute to Product Transparency ***
+- Open Products Facts is a products database made by everyone, for everyone.
+- You can use it to make better choices, and as it is open data, anyone can re-use it for any purpose.
+- Open Products Facts is a non-profit project developed by thousands of volunteers from around the world. Kami ada banyak projek menarik boleh anda sumbangkan dalam pelbagai cara.
+- You can start contributing today by adding your first product.
 
 ▶ Create lists
 Create shopping lists, track what you've eaten and easily share and export your lists.
 
-▶ Get the Facts
-- Fakta Makanan Terbuka membantu anda membuat pertimbangan munasabah maklumat tertera pada label produk. You will be able to find:
+*** Get the Facts ***
+- Open Products Facts helps you to make sense of the fine print on products labels. You will also be able to find (according to the indications present on the products):
 - jejak karbon (pelepasan CO2) dan pembungkusan (serta arahan kitar semula),
 - Nutriscore (skor pemakanan), nutrien, lemak / kandungan lemak, asid lemak tepu, karbohidrat, gula, serat, protein dan garam dan natrium.
-- jenama, alergen, label (bio, bebas gluten, vegan, vegetarian, halal, kosher ...), maklumat kebolehkesanan (kod pembungkusan, packaging codes, asal-usul ramuan)
+- brands, allergens, labels (organic, vegan...)
 - Pada wain dan bir, anda boleh dapati kandungan alkohol.
 
 
@@ -51,26 +51,26 @@ Scan at the speed of light (even if you’re on a plane, submarine or supermarke
 
 - The whole planet, in your pocket !
 - You can add new products, even if you don't have an Internet connection right now.
-- The app loads only the strict necessary to reduce data and battery consumption.
+- The app loads only the strict necessary to reduce data and battery consumption
 
-▶ Your food, your data
-- Your data is yours, and is never sent online
+*** Your products, your data ***
+- Your personal data is yours, and is never sent online
 - You can use the app anonymously
 - You can export your scan history
 
 ▶ Set up allergen alerts on products
 - Milk, Gluten, Eggs, Soybeans, Nuts, Fish, Celery, Mustard, Sulphur dioxide and sulphites, Peanuts, Sesame seeds, Crustaceans, Molluscs or Lupin allergy ?
-- Speed up your shopping by doing an initial screening of your food with Open Food Facts.
+- Open Miniature Food Facts - The largest open database of miniature food products
 - Be careful that the information may not be 100% accurate, and detection may not be 100% accurate. So always double check by yourself, with the packaging.
 
 
 ▶ Say hello and/or join us!
 
 
-Fakta Makanan Terbuka juga boleh didapati pada web di https://world.openfoodfacts.org
+Open Products Facts is also available on the web at https://world.openproductsfacts.org
 
 
 Pertanyaan, maklum balas: contact@openfoodfacts.org
 
 
-Untuk kosmetik, anda boleh pasang Fakta Kecantikan Terbuka, untuk makanan haiwan peliharaan, Fakta Makanan Haiwan Peliharaan Terbuka, dan untuk semua produk lain, Fakta Produk Terbuka.
+For food, you can install Open Food Facts, for cosmetics, Open Beauty Facts, and for pet food, Open Pet Food Facts.

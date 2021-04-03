@@ -17,7 +17,7 @@ Pour découvrir le projet Open Pet Food Facts, rendez-vous sur https://world-fr.
 Vous pourrez également trouver (selon les indications présentes sur les produits):
 - liste des ingrédients (y compris la teneur en cendres)
 - infos nutritionnelles, feux nutritionnels …
-- marques, allergènes, labels (bio, végétaliens ...)
+- marques, allergènes, labels (bio, végétaliens…)
 - Open Pet Food Facts fonctionne avec de la nourriture pour chien (nourriture sèche pour chien et nourriture pour chien humide), nourriture pour chat, nourriture pour lapins, nourriture pour serpent, nourriture pour poissons, nourriture pour oiseaux, nourriture pour chevaux ou toute nourriture pour votre animal préféré.
 
 *** Fonctionne bien dans toutes les conditions ***

@@ -5,7 +5,7 @@ https://play.google.com/store/apps/details?id=org.openfoodfacts.scanner&hl=pt
 V2 capturas de ecrã
 =====================
 
-Digitalizar produto
+Digitalizar produtos
 
 Obtenha o Nutriscore
 
@@ -35,7 +35,7 @@ Ingredientes
 
 Poderoso
 
-Informação nutricional
+Dados nutricionais
 
 =====================
 V3 capturas de ecrã

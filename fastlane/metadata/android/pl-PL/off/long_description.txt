@@ -1,11 +1,11 @@
-Open Food Facts jest otwartą bazą danych o produktach spożywczych, ze składnikami, alergenami, wartościami odżywczymi i wszystkimi informacjami które możemy znaleźć na etykietach produktów.
+Zeskanuj kod kreskowy z produktu dla zwierząt, aby uzyskać dane o jego: składzie, dodatkach i wartości odżywczej.
 
 ▶ Znajdź i porównaj ponad 800 000 produktów
 
-Aplikacja pozwala przeglądać ponad 800.000 produktów (w tym 175.000 w USA) już znajdujących się w bazie wolnego i otwartego Open Food Facts jak i również dodać zdjęcia oraz dane dla nowych produktów.
+Dla jedzenia możesz zainstalować Open Food Facts, dla kosmetyków, Open Beauty Facts, a dla karmy dla zwierząt domowych, Open Pet Food Facts.
 
 
-Open Food Facts to projekt non-profit tworzony przez tysiące wolontariuszy z całego świata.
+Aby poznać projekt Open Pet Food Facts, odwiedź https://world.openpetfoodfacts.org
 
 ▶ Wybierz produkty, które są dla Ciebie dobre
 - Klasa Nutri-Score, od "A" do "E" >> Jakość wartości odżywczej
@@ -20,17 +20,17 @@ Open Food Facts to projekt non-profit tworzony przez tysiące wolontariuszy z ca
 - Aby wyświetlić wpływ CO₂, dany produkt musi mieć kompletną listę składników z podaniem procentowej zawartości mięsa oraz ryb oraz wielkość porcji
 
 
-***Przyczyń się do przejrzystości Pet Food***
-- Open Products Facts to baza danych produktów tworzona przez wszystkich dla każdego.
-Ponieważ to są otwarte dane, możesz je wykorzystać w dowolnym celu.
-- Open Products Facts to projekt non-profit opracowany przez tysiące wolontariuszy z całego świata. Jest dużo ciekawych projektków do których możesz dołączyć.
-- Możesz zacząć wnosić swój wkład już dziś, dodając swój pierwszy produkt.
+*** Przyczyń się do przejrzystości produktów ***
+- Open Pet Food Facts to baza danych produktów dla zwierząt domowych tworzona przez wszystkich dla każdego.
+- Możesz go używać, aby dokonywać lepszych wyborów, a ponieważ są to otwarte dane, każdy może je ponownie wykorzystać w dowolnym celu.
+- Open Pet Food Facts to projekt nienastawiony na zysk opracowany przez tysiące wolontariuszy z całego świata. Jest dużo ciekawych projektków do których możesz dołączyć.
+- Możesz zacząć pomagać już dziś, dodając produkt z szafki Twojego zwierzaka.
 
 ▶ Tworzenie list
 Twórz listy zakupów, śledź to, co zjadłeś oraz łatwo udostępniaj i eksportuj swoje listy.
 
 ***Poznaj fakty***
-Open Beauty Facts pomagają zrozumieć drobny tekst na etykietach. Będziesz mógł również znaleźć (zgodnie ze wskazówkami umieszczonymi na produktach):
+- Open Products Facts pomaga zrozumieć drobny wydruk na etykietach produktów. Będziesz mógł również znaleźć (zgodnie ze wskazówkami umieszczonymi na produktach):
 - emisję dwutlenku węgla (CO2) i typ opakowania (oraz instrukcje dotyczące recycklingu),
 - Wynik Nutriscore (ocena wartośći odżywczej), składniki odżywcze, zawartość tłuszczu, nasycone kwasy tłuszczowe, węglowodany, cukry, błonnik, białko i sól oraz sód.
 - marki, alergeny, etykiety (organiczne, wegańskie...)
@@ -51,9 +51,9 @@ Skanuj z prędkością światła (nawet jeśli jesteś w samolocie, łodzi podwo
 
 - Cała planeta w twojej kieszeni!
 - Możesz dodać nowe produkty, nawet nie mając teraz połączenia.
-- W celu ograniczenia zużycia danych, jak i lepszego zarządzania energią aplikacja ładuje tylko absolutnie niezbędne elementy.
+-W celu ograniczenia zużycia danych, jak i lepszego zarządzania energią aplikacja ładuje tylko absolutnie niezbędne elementy
 
-▶ Twoje jedzenie, twoje dane
+*** Twoje produkty, Twoje dane ***
 - Twoje dane należą do Ciebie i nigdy nie będą przesyłane online
 Możesz korzystać anonimowo z aplikacji
 Możesz eksportować historię skanowania
@@ -67,10 +67,10 @@ Możesz eksportować historię skanowania
 ▶ Przywitaj się i dołącz do nas!
 
 
-Open Products Facts jest również dostępny w Internecie pod adresem https://world.openproductsfacts.org
+Open Beauty Facts jest również dostępny w sieci: https://world.openbeautyfacts.org
 
 
 Pytania, opinie: contact@openfoodfacts.org
 
 
-Open Beauty Facts to baza produktów kosmetycznych tworzona przez każdego dla wszystkich.
+Wczoraj rano zespół Open Food Facts obudził się i zobaczył oszałamiające odkrycie. Zbieranie światowej żywności, kosmetyków i karmy dla zwierząt było tak passé. Z niesamowitym postępem osiągniętym w ubiegłym roku, Z pewnością musimy być bliscy ukończenia naszej misji, polegającej na zbieraniu wszystkich żywności i produktów kosmetycznych na świecie, prawda? Utworzyliśmy więc nie 1, ale inne 77000 nowych baz danych! Open Products Facts będzie niezwykle ambitnym projektem.

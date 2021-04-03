@@ -128,7 +128,7 @@
         <item>Мидовая кислота (20:3 n-9)</item>
         <item>Мелиссовая кислота (30:0)</item>
         <item>Молибден</item>
-        <item>Мононенасыщенные жирные кислоты</item>
+        <item>Monounsaturated fat</item>
         <item>Монтановая кислота (28:0)</item>
         <item>Миристиновая кислота (14:0)</item>
         <item>Нервоновая кислота (24:1 n-9)</item>
@@ -142,7 +142,7 @@
         <item>pH</item>
         <item>Фосфор</item>
         <item>Многоатомные спирты (полиолы)</item>
-        <item>Полиненасыщенные жирные кислоты</item>
+        <item>Polyunsaturated fat</item>
         <item>Калий</item>
         <item>Селен</item>
         <item>Сывороточные белки</item>
@@ -165,7 +165,6 @@
         <item>Витамин K</item>
         <item>Цинк</item>
     </string-array>
-    <!-- Text units -->
     <!-- Content Description -->
     <string name="search_button">Поиск</string>
     <string name="alert_dialog_warning_title">Предупреждение</string>
@@ -332,8 +331,8 @@
     <string name="for_100g">На 100 г</string>
     <string name="for_100ml">На 100 мл</string>
     <string name="serving">На порцию</string>
-    <string name="nutrition_monounsaturatedFat">Мононенасыщенные жирные кислоты</string>
-    <string name="nutrition_polyunsaturatedFat">Полиненасыщенные жирные кислоты</string>
+    <string name="nutrition_monounsaturatedFat">Monounsaturated fat</string>
+    <string name="nutrition_polyunsaturatedFat">Polyunsaturated fat</string>
     <string name="nutrition_omega3">Омега-3</string>
     <string name="nutrition_omega6">Омега-6</string>
     <string name="nutrition_omega9">Омега-9</string>
@@ -418,7 +417,7 @@
     <string name="device_offline_dialog_message">Для этого требуется сетевое подключение, хотите ли вы изменить настройки?</string>
     <string name="device_offline_dialog_negative">Отменить</string>
     <string name="device_offline_dialog_positive">Настройки</string>
-    <string name="scan_first_product">Сканировать первый продукт</string>
+    <string name="scan_first_product">Scan your first product</string>
     <string name="device_on_mobile_data_warning_title">Информация</string>
     <string name="device_on_mobile_data_warning_message">Вы отключили передачу мобильных данных , пожалуйста, подключитесь к WiFi или измените настройки</string>
     <string name="device_on_mobile_data_warning_positive">Настройки</string>
@@ -677,7 +676,7 @@
     <!-- Used for additive exposure evaluation table -->
     <string name="extract_ingredients_prompt">Распознать ингредиенты</string>
     <string name="extract_recycling_prompt">Извлечь инструкции по переработке</string>
-    <string name="add_nutrient_prompt_text">Добавьте пищевую ценность для расчета уровня питательных веществ</string>
+    <string name="add_nutrient_prompt_text">Add nutrition facts to compute the Nutri-Score</string>
     <string name="add_category_prompt_text">Добавить категорию, чтобы помочь завершить продукт</string>
     <string name="add_nutrient_category_prompt_text">Добавьте категорию и пищевую ценность, чтобы помочь завершить продукт</string>
     <string name="couldnot_compute_ecoscore_prompt_text">Мы не смогли вычислить Eco-Score для этого продукта. Возможно, категория недостаточно конкретна или у нас нет подтверждающих данных для этой категории. Если вы считаете, что это ошибка, вы можете написать нам, нажав ниже.</string>
@@ -716,7 +715,7 @@
     <string name="empty"></string>
     <string name="add_product">Добавьте продукты</string>
     <string name="add_another_product">Добавить другой продукт</string>
-    <string name="add_nutrition_facts_for_nutriscore">Добавьте пищевую ценность для расчета уровня питательных веществ</string>
+    <string name="add_nutrition_facts_for_nutriscore">Add nutrition facts to compute the Nutri-Score</string>
     <string name="product_summary_action_compare_button_label">Сравнить</string>
     <string name="product_summary_action_add_to_list_button_label">Добавить в список</string>
     <string name="product_summary_action_edit_button_label">Изменить</string>

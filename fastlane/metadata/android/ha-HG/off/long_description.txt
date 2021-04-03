@@ -1,11 +1,11 @@
-A bincika samfuran abinci ko lambar lambar su don samun bayanai akan sinadaran, abubuwan ƙarawa da gaskiyar abubuwan abinci.
+Scan pet food products or their barcode to obtain data on ingredients, additives and nutrition facts.
 
 ▶ Nemo kumada Kwatanta sama da kayayyakin 800,000
 
-Wannan app din tabada damar duba 800.000 kayayyakin (ciki har da 175.000 a Amurka) ta riga ta kunshe damar shiga kyauta da kuma bude database Bude Abinci Abin da ke ciki, da kuma don ƙara hotuna da bayanai don sabon samfurori.
+The app allows to view the over 600 pet food products already contained in the free and open database Open Pet Food Facts, and also to add pictures and data for missing products.
 
 
-Don gano kaddamar da taimako dan buɗe bangare na Abinci, ziyarci https://world.openfoodfacts.org
+To discover the Open Pet Food Facts project, please visit https://world.openpetfoodfacts.org
 
 Zaɓi samfuran da suke muku kyau
 - Matsayi na Nutri-Score, daga "A" zuwa "E" >> ingancin abinci mai gina jiki
@@ -20,20 +20,20 @@ Kuma yayi kyau ga duniyar!
 - Don nuna tasirin Carbon, dole ne samfurin ya kasance da jerin abubuwan sarrafawa tare da% na nama ko kifi da adadi mai yawa
 
 
-Ba da gudummawa ga Isar da Abinci
-- Bude Abubuwan Abinci shine tsarin samar da abinci wanda kowa yake yi, don kowa.
-- Kuna iya amfani da shi don yin zaɓin abinci mafi kyau, kuma kamar yadda yake buɗe bayanan, kowa na iya sake amfani dashi don kowane dalili.
-- Batun Abinci na Abinci wani shiri ne na riba wanda dubunnan masu ba da agaji suka kirkira daga sassan duniya. Muna da ayyuka masu ban sha'awa da yawa waɗanda zaku iya ba da gudummawarsu ta hanyoyi daban-daban.
-- Kuna iya fara ba da gudummawa a yau ta ƙara samfurin daga firinjin ku.
+*** Contribute to Product Transparency ***
+- Open Products Facts is a products database made by everyone, for everyone.
+- You can use it to make better choices, and as it is open data, anyone can re-use it for any purpose.
+- Open Products Facts is a non-profit project developed by thousands of volunteers from around the world. Muna da ayyuka masu ban sha'awa da yawa waɗanda zaku iya ba da gudummawarsu ta hanyoyi daban-daban.
+- You can start contributing today by adding your first product.
 
 ▶ Kirkiro jerin abubuwa
 Kakirƙiri jerin abubuwan siyayya, bibiya abin da kuka ci da sauƙi ka yada da kuma sauƙaƙe jerin abubuwanku.
 
-Samu Labaran
-- Bude abun Abinci dan zai taimaka muku wajen hankali da ingantaccen bugawa akan tasirin samfuran. Za ku iya samun:
+*** Get the Facts ***
+- Open Products Facts helps you to make sense of the fine print on products labels. You will also be able to find (according to the indications present on the products):
 - ƙafafun carbon (ƙirar CO2) da marufi (tare da umarnin sake yin amfani da su),
 - Nutriscore (ci abinci mai gina jiki), abinci mai gina jiki,/ mai sa jiki, carbohydrates, sugars, fiber, furotin da gishiri da kuma sodium.
-- nau'ikan kaya, kayan ƙira, abubuwan alamomi (bio, gluten free, vegan, mai cin ganyayyaki, halal, kosher ...), bayanan ganowa (lambobin shirya kayan, asalin abubuwan da ake amfani da su)
+- brands, allergens, labels (organic, vegan...)
 - A kan ruwan inabi da giya, zaku sami abun ciki na barasa.
 
 
@@ -51,26 +51,26 @@ Sake kallon saurin hasken (koda kuwa kuna kan jirgin sama ne, jirgin ruwa ko kum
 
 - Duk duniya, na cikin aljihunka!
 - Kuna iya ƙara sabbin samfura, koda kuwa ba ku da haɗin Intanet a yanzu.
-- Shi app din na lodi kawai tsananin dole don rage bayanai da batir amfani.
+- The app loads only the strict necessary to reduce data and battery consumption
 
-Abincin ku, bayananku
-- Bayananka naka ne, kuma ba a taɓa aika shi ta yanar gizo ba
+*** Your products, your data ***
+- Your personal data is yours, and is never sent online
 - Kuna iya amfani da app ba tare da sani ba
 - Kuna iya fitarwa da tarihin bincikenku
 
 ▶ Saita faɗakarwar mai ƙwayar cuta a samfuran
 - Milk, Gluten, Qwai, waken soya, Abinci, Kifi, Selery, mustard, Sulfur dioxide da sulphites, Gyada, Tsaba ridi, Crustaceans, Molluscs ko rashin lafiyan Lupine?
-- Haɓaka cinikin ka ta hanyar yin gwajin abinci na farko tare da Bayyanannun Abinci.
+- Open Miniature Food Facts - The largest open database of miniature food products
 - Yi hankali da cewa bayanan bazai zama 100% daidai ba, kuma gano ba zai zama 100% daidai ba. Don haka koyaushe ku rinka bincike da kanku, tare da marufin.
 
 
 ▶ Fadi maraba da / ko shiga tare damu!
 
 
-Bude Abinda Abinci ke ciki kuma ana samunsa ta yanar gizo akan https://world.openfoodfacts.org
+Open Products Facts is also available on the web at https://world.openproductsfacts.org
 
 
 Tambayoyi, amsawa: kakira@openfoodfacts.org
 
 
-Don kayan kwaskwarima, zaku iya shigar da Batun Kyawawan Kwarewa, don abincin dabbobi, Buɗe Abincin Abinci, da na sauran samfurori, Bude samfuran Fasa.
+For food, you can install Open Food Facts, for cosmetics, Open Beauty Facts, and for pet food, Open Pet Food Facts.

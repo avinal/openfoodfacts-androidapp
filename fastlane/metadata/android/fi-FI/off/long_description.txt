@@ -1,11 +1,11 @@
-Lue elintarvikkeita tai niiden viivakoodit saadaksesi tietoa ainesosista, lisäaineista ja ravintosisällöistä.
+Scan pet food products or their barcode to obtain data on ingredients, additives and nutrition facts.
 
 ▶ Löydä ja vertaa yli 800 000 tuotetta
 
-Sovelluksen avulla voi tarkastella 800 000 tuotetta (mukaan lukien 175 000 Yhdysvalloissa), jotka ovat jo vapaassa ja avoimessa Open Food Facts -tietokannassa, sekä lisätä kuvia ja tietoja uusille tuotteille.
+The app allows to view the over 600 pet food products already contained in the free and open database Open Pet Food Facts, and also to add pictures and data for missing products.
 
 
-Tutustu vapaaehtoisten ylläpitämään Open Food Facts -hankkeeseen osoitteessa https://world-fi.openfoodfacts.org
+To discover the Open Pet Food Facts project, please visit https://world.openpetfoodfacts.org
 
 ▶ Valitse tuotteet, jotka ovat sinulle hyväksi
 - Nutri-Score-arvosana, "A" - "E" >> Ravinnollinen laatu
@@ -20,20 +20,20 @@ Tutustu vapaaehtoisten ylläpitämään Open Food Facts -hankkeeseen osoitteessa
 - Hiilivaikutuksen ilmaisemiseksi tuotteella on oltava määrä ja täydellinen ainesosaluettelo, jossa on % lihaa tai kalaa
 
 
-▶ Edistä ruoan läpinäkyvyyttä
-- Open Food Facts on kaikkien tekemä elintarviketietokanta kaikille.
-- Voit käyttää sitä parempiin ruokavalintoihin, ja koska se on avointa dataa, kuka tahansa voi käyttää sitä uudelleen mihin tahansa tarkoitukseen.
-- Open Food Facts on voittoa tavoittelematon hanke, jonka ovat kehittäneet tuhannet vapaaehtoiset ympäri maailmaa. Meillä on paljon jännittäviä hankkeita, joihin voit osallistua monin eri tavoin.
-- Voit aloittaa osallistumisen tänään lisäämällä tuotteen jääkaapistasi.
+*** Contribute to Product Transparency ***
+- Open Products Facts is a products database made by everyone, for everyone.
+- You can use it to make better choices, and as it is open data, anyone can re-use it for any purpose.
+- Open Products Facts is a non-profit project developed by thousands of volunteers from around the world. Meillä on paljon jännittäviä hankkeita, joihin voit osallistua monin eri tavoin.
+- You can start contributing today by adding your first product.
 
 ▶ Luo luetteloita
 Luo ostoslistoja, seuraa mitä olet syönyt, ja jaa ja vie luettelosi helposti.
 
-▶ Näe faktat
-- Open Food Facts auttaa sinua ymmärtämään tuotteiden etiketeissä olevan pikkupräntin. Löydät:
+*** Get the Facts ***
+- Open Products Facts helps you to make sense of the fine print on products labels. You will also be able to find (according to the indications present on the products):
 - hiilijalanjäljen (CO2-päästöt) ja pakkaukset (sekä kierrätysohjeet),
 - Nutriscoren (ravintopisteet), ravintoaineet, rasvan / rasvapitoisuuden, tyydyttyneet rasvahapot, hiilihydraatit, sokerit, kuidut, proteiinin sekä suolan ja natriumin.
-- tuotemerkit, allergeenit, merkit (luomu, gluteeniton, vegaani, vegetaari, halal, kosher ...), jäljitettävyystiedot (pakkauskoodit, ainesosien alkuperät)
+- brands, allergens, labels (organic, vegan...)
 - Viineistä ja oluista löydät alkoholipitoisuuden.
 
 
@@ -51,26 +51,26 @@ Lue valon nopeudella (vaikka olisit lentokoneessa, sukellusveneessä tai superma
 
 - Koko planeetta, taskussasi!
 - Voit lisätä uusia tuotteita, vaikka sinulla ei olisi Internet-yhteyttä juuri nyt.
-- Sovellus lataa vain ehdottoman välttämättömät datasiirron ja akun kulutuksen vähentämiseksi.
+- The app loads only the strict necessary to reduce data and battery consumption
 
-▶ Sinun ruokasi, sinun tietosi
-- Tietosi ovat sinun, eikä niitä koskaan lähetetä verkossa
+*** Your products, your data ***
+- Your personal data is yours, and is never sent online
 - Voit käyttää sovellusta nimettömästi
 - Voit viedä lukuhistoriasi
 
 ▶ Määritä tuotteille allergeenivaroituksia
 - Maito-, gluteeni-, muna-, soijapapu-, pähkinä-, kala-, selleri-, sinappi-, rikkidioksidi ja sulfiitti -, maapähkinä-, seesaminsiemen-, äyriäis-, nilviäis- tai lupiiniallergia?
-- Nopeuta ostoksiasi tekemällä ruokasi alustava seulonta Open Food Factsin avulla.
+- Open Miniature Food Facts - The largest open database of miniature food products
 - Ole varovainen, sillä tiedot eivät välttämättä ole 100% tarkkoja ja tunnistaminen ei välttämättä ole 100% tarkkaa. Joten tarkista aina itse pakkauksesta.
 
 
 ▶ Tervehdi ja/tai liity mukaan!
 
 
-Open Food Facts on saatavilla myös verkossa osoitteessa https://world-fi.openfoodfacts.org
+Open Products Facts is also available on the web at https://world.openproductsfacts.org
 
 
 Kysymykset, palaute: contact@openfoodfacts.org
 
 
-Kosmetiikalle voit asentaa Open Beauty Factsin, lemmikkieläinten ruoalle Open Pet Food Factsin ja kaikille muille tuotteille Open Products Factsin.
+For food, you can install Open Food Facts, for cosmetics, Open Beauty Facts, and for pet food, Open Pet Food Facts.

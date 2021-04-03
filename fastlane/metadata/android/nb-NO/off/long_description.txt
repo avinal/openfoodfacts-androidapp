@@ -1,11 +1,11 @@
-Skann matprodukter eller strekkoden deres for å skaffe informasjon om ingredienser, tilsetningsstoffer og næringsfakta.
+Scan pet food products or their barcode to obtain data on ingredients, additives and nutrition facts.
 
 ▶ Finn og sammenlign mer enn 800.000 produkter
 
-The app allows to view the 800.000 products (including 175.000 in the US) already contained in the free and open database Open Food Facts, and also to add pictures and data for new products.
+The app allows to view the over 600 pet food products already contained in the free and open database Open Pet Food Facts, and also to add pictures and data for missing products.
 
 
-To discover the volunteer-run Open Food Facts project, visit https://world.openfoodfacts.org
+To discover the Open Pet Food Facts project, please visit https://world.openpetfoodfacts.org
 
 ▶ Velg produktene som er bra for deg
 - The Nutri-Score grade, from "A" to "E" >> Nutritional quality
@@ -20,20 +20,20 @@ To discover the volunteer-run Open Food Facts project, visit https://world.openf
 - To display a Carbon Impact, a product must have a complete ingredient list with % of meat or fish and a quantity
 
 
-▶ Bidra til åpenhet om mat
-- Open Food Facts er en matproduktdatabase laget av alle, for alle.
-- Du kan bruke den til å ta bedre matvalg, og ettersom det er åpne data, kan hvem som helst bruke dataene på nytt til ethvert formål.
-- Open Food Facts er et ideelt prosjekt utviklet av tusenvis av frivillige fra hele verden. Vi har mange spennende prosjekter du kan bidra til på mange forskjellige måter.
-- You can start contributing today by adding a product from your fridge.
+*** Contribute to Product Transparency ***
+- Open Products Facts is a products database made by everyone, for everyone.
+- You can use it to make better choices, and as it is open data, anyone can re-use it for any purpose.
+- Open Products Facts is a non-profit project developed by thousands of volunteers from around the world. Vi har mange spennende prosjekter du kan bidra til på mange forskjellige måter.
+- You can start contributing today by adding your first product.
 
 ▶ Lag lister
 Create shopping lists, track what you've eaten and easily share and export your lists.
 
-▶ Get the Facts
-- Open Food Facts hjelper deg å forstå det som står i liten skrift på produktetikettene. You will be able to find:
+*** Get the Facts ***
+- Open Products Facts helps you to make sense of the fine print on products labels. You will also be able to find (according to the indications present on the products):
 - karbonavtrykk (CO2-utslipp) og emballasje (samt instruksjoner om gjenvinning),
 - Nutriscore (nutritional score), nutrients, fat / fat content, saturated fatty acids, carbohydrates, sugars, fiber, protein and salt and sodium.
-- varemerker, allergener, etiketter (bio, glutenfri, vegansk, vegetarisk, halal, kosher ...), sporbarhetsinformasjon (emballasjekoder, ingrediensenes opprinnelse)
+- brands, allergens, labels (organic, vegan...)
 - Du finner alkoholinnholdet på vin og øl.
 
 
@@ -51,26 +51,26 @@ Scan at the speed of light (even if you’re on a plane, submarine or supermarke
 
 - The whole planet, in your pocket !
 - You can add new products, even if you don't have an Internet connection right now.
-- The app loads only the strict necessary to reduce data and battery consumption.
+- The app loads only the strict necessary to reduce data and battery consumption
 
-▶ Din mat, dine data
-- Your data is yours, and is never sent online
+*** Your products, your data ***
+- Your personal data is yours, and is never sent online
 - Du kan bruke appen anonymt
 - Du kan eksportere skannehistorikken din
 
 ▶ Set up allergen alerts on products
 - Milk, Gluten, Eggs, Soybeans, Nuts, Fish, Celery, Mustard, Sulphur dioxide and sulphites, Peanuts, Sesame seeds, Crustaceans, Molluscs or Lupin allergy ?
-- Speed up your shopping by doing an initial screening of your food with Open Food Facts.
+- Open Miniature Food Facts - The largest open database of miniature food products
 - Be careful that the information may not be 100% accurate, and detection may not be 100% accurate. So always double check by yourself, with the packaging.
 
 
 ▶ Say hello and/or join us!
 
 
-Open Food Facts er også tilgjengelig på nettet på https://world.openfoodfacts.org
+Open Products Facts is also available on the web at https://world.openproductsfacts.org
 
 
 Spørsmål, tilbakemelding: contact@openfoodfacts.org
 
 
-For cosmetics, you can install Open Beauty Facts, for pet food, Open Pet Food Facts, and for all other products, Open Products Facts.
+For food, you can install Open Food Facts, for cosmetics, Open Beauty Facts, and for pet food, Open Pet Food Facts.

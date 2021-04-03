@@ -5,7 +5,7 @@ https://play.google.com/store/apps/details?id=org.openfoodfacts.scanner&hl=es
 Capturas de pantalla versión 2
 =====================
 
-Escanea productos
+Escanear productos
 
 Obtener el Nutriscore
 

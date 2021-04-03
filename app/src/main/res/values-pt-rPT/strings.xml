@@ -155,7 +155,6 @@
         <item>Vitamina K</item>
         <item>Zinco</item>
     </string-array>
-    <!-- Text units -->
     <!-- Content Description -->
     <string name="search_button">Procurar</string>
     <string name="alert_dialog_warning_title">Aviso</string>
@@ -408,7 +407,7 @@
     <string name="device_offline_dialog_message">É necessária uma ligação de rede para fazer isto, quer alterar as definições?</string>
     <string name="device_offline_dialog_negative">Descartar</string>
     <string name="device_offline_dialog_positive">Configurações</string>
-    <string name="scan_first_product">Digitalizar primeiro produto</string>
+    <string name="scan_first_product">Digitalize o seu primeiro produto</string>
     <string name="device_on_mobile_data_warning_title">Informação</string>
     <string name="device_on_mobile_data_warning_message">Desativou o envio por dados móveis, por favor ligue-se a uma rede Wi-Fi ou altere esta definição nas preferências da aplicação Open Food Facts</string>
     <string name="device_on_mobile_data_warning_positive">Configurações</string>

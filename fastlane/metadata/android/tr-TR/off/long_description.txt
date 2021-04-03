@@ -1,8 +1,8 @@
-İçerikler, katkı maddeleri ve beslenme gerçekleriyle ilgili bilgi almak için gıda ürünlerini veya barkodlarını okutun.
+Yiyecekler için Open Food Facts, evcil hayvan mamaları için Open Pet Food Facts, ve geri kalan her şey için Open Products Facts'i yükleyebilirsiniz.
 
 ▶ 800.000'den fazla ürünü Bul & Karşılaştır
 
-Uygulama, özgür ve açık veritabanı Open Food Facts'te bulunan 800.000 ürünü (ABD'deki 175.000 ürün dahil) görüntülemenize ve ayrıca yeni ürünler için resim ve veri eklemenize olanak tanır.
+Yiyecekler için Open Food Facts'i, kozmetik ürünleri için Open Beauty Facts'i, ve evcil hayvan besinleri için Open Pet Food Facts'i yükleyebilirsin.
 
 
 Yiyecekler için Open Food Facts, evcil hayvan mamaları için Open Pet Food Facts, ve geri kalan her şey için Open Products Facts'i yükleyebilirsiniz.
@@ -20,17 +20,17 @@ Yiyecekler için Open Food Facts, evcil hayvan mamaları için Open Pet Food Fac
 - Karbon Etkisini gösterebilmek için, bir ürünün miktarı ile birlikte et veya balık yüzdesini içeren tam bir içindekiler listesine sahip olması gerekir
 
 
-▶ Gıda Şeffaflığına Katkıda Bulunun
--Open Products Facts, herkes tarafından herkes için oluşturulan bir ürün veritabanıdır.
-- Daha iyi kozmetik tercihleri yapmak için kullanılabileceği gibi, açık bir kaynak olduğu için herhangi biri istediği bir amaç için yeniden kullanabilir.
-- Open Products Facts dünyanın dört bir yanından binlerce gönüllü tarafından geliştirilen ve kar amacı gütmeyen bir projedir. -Birçok farklı şekilde katkı sağlayabileceğiniz çok sayıda heyecan verici projelerimiz bulunmakta.
-- İlk ürününüzü ekleyerek bugün katkıda bulunmaya başlayabilirsiniz.
+*** Ürün Şeffaflığına Katkıda Bulunun ***
+- Open Pet Food Facts is a pet food products database made by everyone, for everyone.
+- Daha iyi tercihler yapmak için kullanılabileceği gibi, açık bir kaynak olduğu için herhangi biri istediği bir amaç için yeniden kullanabilir.
+- Open Pet Food Facts is a non-profit project developed by thousands of volunteers from around the world. -Birçok farklı şekilde katkı sağlayabileceğiniz çok sayıda heyecan verici projelerimiz bulunmakta.
+- You can start contributing today by adding a product from your pet's cupboard.
 
 ▶ Listeler oluştur
 Alışveriş listeleri oluşturun, ne yediğinizi takip edin ve listelerinizi kolayca paylaşın ve dışa aktarın.
 
-▶ Gerçekleri Öğrenin
-- Open Products Facts, ürün etiketlerindeki ince ayrıntıları anlamanıza yardımcı olur. You will also be able to find (according to the indications present on the products):
+*** Sizin ürünleriniz, sizin verileriniz ***
+- Open Beauty Facts, ürün etiketlerindeki ince ayrıntıları anlamanıza yardımcı olur. You will also be able to find (according to the indications present on the products):
 -karbon ayakizi (CO2 salınımı) ve paketleme (geri dönüşüm talimatları vb.),
 -Nutriscore (besleyicilik değeri), besinler, yağ/yağ içeriği, doymuş yağ asitleri, karbonhidratlar, şekerler, lif, protein ve tuz ve sodyum.
 - brands, allergens, labels (organic, vegan...)
@@ -51,10 +51,10 @@ Işık hızında tarayın (uçakta, denizaltıda veya süpermarkette olsanız bi
 
 - Bütün gezegen, cebinizde!
 - Şu an İnternet bağlantınız olmasa bile yeni ürünler ekleyebilirsiniz.
-- Uygulama veri ve pil kullanımını azaltmak için sadece gerekli olanları yükler.
+- Uygulama veri ve pil kullanımını azaltmak için sadece gerekli olanları yükler
 
-▶ Sizin yiyecekleriniz, sizin verileriniz
-- Kişisel verileriniz size aittir ve asla çevrimiçi gönderilmez
+*** HEEEERR şeyi toplayın ***
+- Verileriniz sizindir ve asla çevrimiçi gönderilmez
 - Uygulamayı anonim olarak kullanabilirsiniz
 - Tarama geçmişinizi dışa aktarabilirsiniz
 
@@ -67,10 +67,10 @@ Işık hızında tarayın (uçakta, denizaltıda veya süpermarkette olsanız bi
 ▶ Merhaba deyin ve/veya bize katılın!
 
 
-Open Products Facts aynı zamanda https://world-tr.openproductsfacts.org internet adresinde mevcuttur
+Open Beauty Facts aynı zamanda https://world-tr.openbeautyfacts.org internet adresinde mevcuttur
 
 
 Sorular, geri bildirim : contact@openfoodfacts.org
 
 
-Not: Open Beauty Facts sitesi ve uygulaması, kozmetik ürünlere göre gerekli değişiklikler yapılmak suretiyle Open Food Facts temel alınarak inşa edilmektedir.
+For human food, you can install Open Food Facts, for cosmetics, Open Beauty Facts, and for all other products, Open Products Facts.

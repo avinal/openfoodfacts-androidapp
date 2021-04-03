@@ -118,7 +118,7 @@
         <item>Myresyre (20:3 n-9)</item>
         <item>Melissyre (30:0)</item>
         <item>Molybdæn</item>
-        <item>Monoumættet fedt</item>
+        <item>Monounsaturated fat</item>
         <item>Montansyre (28:0)</item>
         <item>Myristinsyre (14:0)</item>
         <item>Nervonsyre (24:1 n-9)</item>
@@ -132,7 +132,7 @@
         <item>pH</item>
         <item>Fosfor</item>
         <item>Sukkeralkoholer (Polyoler)</item>
-        <item>Flerumættet fedt</item>
+        <item>Polyunsaturated fat</item>
         <item>Kalium</item>
         <item>Selen</item>
         <item>Serumproteiner</item>
@@ -155,7 +155,6 @@
         <item>K-vitamin</item>
         <item>Zink</item>
     </string-array>
-    <!-- Text units -->
     <!-- Content Description -->
     <string name="search_button">Søg</string>
     <string name="alert_dialog_warning_title">Advarsel</string>
@@ -322,8 +321,8 @@
     <string name="for_100g">Pr. 100 g</string>
     <string name="for_100ml">Pr. 100 ml</string>
     <string name="serving">Pr. portion</string>
-    <string name="nutrition_monounsaturatedFat">Monoumættet fedt</string>
-    <string name="nutrition_polyunsaturatedFat">Flerumættet fedt</string>
+    <string name="nutrition_monounsaturatedFat">Monounsaturated fat</string>
+    <string name="nutrition_polyunsaturatedFat">Polyunsaturated fat</string>
     <string name="nutrition_omega3">Omega 3</string>
     <string name="nutrition_omega6">Omega 6</string>
     <string name="nutrition_omega9">Omega 9</string>
@@ -408,7 +407,7 @@
     <string name="device_offline_dialog_message">En netværksforbindelse kræves for at gøre dette. Vil du ændre dette i Indstillinger?</string>
     <string name="device_offline_dialog_negative">Afvis</string>
     <string name="device_offline_dialog_positive">Indstillinger</string>
-    <string name="scan_first_product">Skan første produkt</string>
+    <string name="scan_first_product">Scan your first product</string>
     <string name="device_on_mobile_data_warning_title">Oplysninger</string>
     <string name="device_on_mobile_data_warning_message">Upload via mobildata er inaktiv. Opret forbindelse til Wi-Fi eller ændr indstillingen i præferencer</string>
     <string name="device_on_mobile_data_warning_positive">Præferencer</string>
@@ -665,7 +664,7 @@
     <!-- Used for additive exposure evaluation table -->
     <string name="extract_ingredients_prompt">Udtræk ingredienser</string>
     <string name="extract_recycling_prompt">Udtræk genbrugsinstruktioner</string>
-    <string name="add_nutrient_prompt_text">Tilføj næringsfakta til beregning af næringsniveauer</string>
+    <string name="add_nutrient_prompt_text">Add nutrition facts to compute the Nutri-Score</string>
     <string name="add_category_prompt_text">Tilføj en kategori som hjælp til produktfærdiggørelsen</string>
     <string name="add_nutrient_category_prompt_text">Tilføj en kategori og ernæringsfakta som hjælp til produktfærdiggørelsen</string>
     <string name="couldnot_compute_ecoscore_prompt_text">Det er ikke muligt at udtrække Øko-Score for dette produkt grundet f.eks. en kategori, der ikke er specifik nok eller mangler understøttende data. Mener du, at dette er en fejl, kan du e-maile OFF ved at klikke nedenfor.</string>
@@ -704,7 +703,7 @@
     <string name="empty"></string>
     <string name="add_product">Tilføj produkter</string>
     <string name="add_another_product">Tilføj et produkt mere</string>
-    <string name="add_nutrition_facts_for_nutriscore">Tilføj næringsfakta til beregning af næringsniveauer</string>
+    <string name="add_nutrition_facts_for_nutriscore">Add nutrition facts to compute the Nutri-Score</string>
     <string name="product_summary_action_compare_button_label">Sammenlign</string>
     <string name="product_summary_action_add_to_list_button_label">Føj til liste</string>
     <string name="product_summary_action_edit_button_label">Redigér</string>
