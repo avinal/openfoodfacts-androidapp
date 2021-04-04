@@ -63,9 +63,14 @@ allprojects {
     }
 }
 
-apply plugin: 'java'
+plugins {
+    id("org.jetbrains.dokka") version "1.4.30"
+}
 
-javadoc {
-    source = sourceSets.main.allJava
-    classpath = configurations.compile
+repositories {
+    jcenter() // or maven(url="https://dl.bintray.com/kotlin/dokka")
+}
+
+dependencies {
+    dokkaHtmlPlugin("org.jetbrains.dokka:kotlin-as-java-plugin:1.4.30")
 }
