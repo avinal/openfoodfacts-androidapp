@@ -45,6 +45,7 @@ buildscript {
 
 plugins {
     id("org.sonarqube") version "3.0"
+    id("org.jetbrains.dokka") version "1.4.30"
 }
 
 allprojects {
@@ -61,10 +62,6 @@ allprojects {
             property("sonar.coverage.exclusions", "**/openfoodfacts/github/scrachx/openfood/models/*")
         }
     }
-}
-
-plugins {
-    id("org.jetbrains.dokka") version "1.4.30"
 }
 
 repositories {
