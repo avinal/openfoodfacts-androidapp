@@ -15,13 +15,10 @@ jobs:
         run: ./gradlew dokkaHtml
 
       - name: Copy to directory
-        run: |
-          mkdir public
-          cp -a ./build/dokka/html/* public/
-          touch ./public/.nojekyll
+        run: cp -a ./build/dokka/html/.nojekyll 
          
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
         with: 
           github_token: ${{ secrets.github_token }}
-          publish_dir: ./public
+          publish_dir: ./build/dokka/html/
