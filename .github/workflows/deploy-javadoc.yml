@@ -1,0 +1,21 @@
+name: Deploy JavaDoc
+on:
+  push:
+    branches:
+      - deploy-action
+
+jobs:
+  deploy-docs:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+        with:
+          fetch-depth: 50
+      - name: Install Packages
+        run: sudo apt install -y openjdk-11-jdk
+
+      - name: Generate docs
+        run: ./gradlew javadoc
+        
+      - name: check 
+        run: tree build

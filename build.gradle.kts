@@ -61,6 +61,11 @@ allprojects {
             property("sonar.coverage.exclusions", "**/openfoodfacts/github/scrachx/openfood/models/*")
         }
     }
+}
 
+apply plugin: 'java'
 
+javadoc {
+    source = sourceSets.main.allJava
+    classpath = configurations.compile
 }
